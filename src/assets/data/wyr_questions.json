@@ -1,0 +1,4622 @@
+[
+  {
+    "ops1": "Would you rather have the ability to fly",
+    "ops2": "Be invisible?,"
+  },
+  {
+    "ops1": "Would you rather always be 10 minutes late",
+    "ops2": "20 minutes early?,"
+  },
+  {
+    "ops1": "Would you rather have a rewind button for your life",
+    "ops2": "A pause button?,"
+  },
+  {
+    "ops1": "Would you rather always speak the truth",
+    "ops2": "Always lie?,"
+  },
+  {
+    "ops1": "Would you rather have unlimited money",
+    "ops2": "Unlimited time?,"
+  },
+  {
+    "ops1": "Would you rather be famous when you are alive and forgotten when you die,",
+    "ops2": "Unknown when you are alive but famous after you die?,"
+  },
+  {
+    "ops1": "Would you rather have the ability to read minds",
+    "ops2": "Control time?,"
+  },
+  {
+    "ops1": "Would you rather live in a world without music",
+    "ops2": "A world without movies?,"
+  },
+  {
+    "ops1": "Would you rather have the power of teleportation",
+    "ops2": "The ability to shape-shift?,"
+  },
+  {
+    "ops1": "Would you rather live in a bustling city",
+    "ops2": "A quiet countryside?,"
+  },
+  {
+    "ops1": "Would you rather have the ability to speak all languages fluently",
+    "ops2": "Communicate with animals?,"
+  },
+  {
+    "ops1": "Would you rather have the power of super strength",
+    "ops2": "The ability to fly?,"
+  },
+  {
+    "ops1": "Would you rather explore the deep sea",
+    "ops2": "Outer space?,"
+  },
+  {
+    "ops1": "Would you rather always have perfect weather",
+    "ops2": "Never have to wait in a line again?,"
+  },
+  {
+    "ops1": "Would you rather be able to travel back in time",
+    "ops2": "Into the future?,"
+  },
+  {
+    "ops1": "Would you rather have the power of invisibility",
+    "ops2": "The ability to teleport?,"
+  },
+  {
+    "ops1": "Would you rather live in a world without internet",
+    "ops2": "Without TV?,"
+  },
+  {
+    "ops1": "Would you rather have a personal chef",
+    "ops2": "A personal chauffeur?,"
+  },
+  {
+    "ops1": "Would you rather have the power of telekinesis",
+    "ops2": "The ability to time travel?,"
+  },
+  {
+    "ops1": "Would you rather have the ability to control fire",
+    "ops2": "Water?,"
+  },
+  {
+    "ops1": "Would you rather always have a clean house but no personal chef",
+    "ops2": "A messy house with a personal chef?,"
+  },
+  {
+    "ops1": "Would you rather have a lifetime supply of your favorite food",
+    "ops2": "A lifetime supply of your favorite beverage?,"
+  },
+  {
+    "ops1": "Would you rather have the power of teleportation",
+    "ops2": "Be able to clone yourself?,"
+  },
+  {
+    "ops1": "Would you rather live in a treehouse",
+    "ops2": "An underwater city?,"
+  },
+  {
+    "ops1": "Would you rather have the ability to talk to plants",
+    "ops2": "Understand every language spoken by animals?,"
+  },
+  {
+    "ops1": "Would you rather have the power of time manipulation",
+    "ops2": "Mind control?,"
+  },
+  {
+    "ops1": "Would you rather have a personal assistant",
+    "ops2": "A personal masseuse?,"
+  },
+  {
+    "ops1": "Would you rather have the ability to stop time",
+    "ops2": "Reverse it?,"
+  },
+  {
+    "ops1": "Would you rather always have perfect hair",
+    "ops2": "Perfect skin?,"
+  },
+  {
+    "ops1": "Would you rather have the power of super intelligence",
+    "ops2": "Super strength?,"
+  },
+  {
+    "ops1": "Would you rather be an Olympic gold medalist",
+    "ops2": "A Nobel Prize winner?,"
+  },
+  {
+    "ops1": "Would you rather have the ability to control the weather",
+    "ops2": "The stock market?,"
+  },
+  {
+    "ops1": "Would you rather have the power of flight",
+    "ops2": "The ability to breathe underwater?,"
+  },
+  {
+    "ops1": "Would you rather have the power of telepathy",
+    "ops2": "The ability to time travel?,"
+  },
+  {
+    "ops1": "Would you rather be a famous musician",
+    "ops2": "A famous athlete?,"
+  },
+  {
+    "ops1": "Would you rather have the ability to change the past",
+    "ops2": "Predict the future?,"
+  },
+  {
+    "ops1": "Would you rather have the power of mind reading",
+    "ops2": "The ability to control fire?,"
+  },
+  {
+    "ops1": "Would you rather have the ability to speak every language fluently",
+    "ops2": "Be a master of every musical instrument?,"
+  },
+  {
+    "ops1": "Would you rather have the power to heal others",
+    "ops2": "The power to never get sick?,"
+  },
+  {
+    "ops1": "Would you rather have the ability to communicate with animals",
+    "ops2": "Speak every human language?,"
+  },
+  {
+    "ops1": "Would you rather have the power of flight",
+    "ops2": "The ability to teleport?,"
+  },
+  {
+    "ops1": "Would you rather have the power of super speed",
+    "ops2": "The ability to control time?,"
+  },
+  {
+    "ops1": "Would you rather live in a world without books",
+    "ops2": "Without the internet?,"
+  },
+  {
+    "ops1": "Would you rather have the ability to transform into any animal",
+    "ops2": "Speak every human language?,"
+  },
+  {
+    "ops1": "Would you rather be a famous actor in a blockbuster movie",
+    "ops2": "A critically acclaimed indie film?,"
+  },
+  {
+    "ops1": "Would you rather have the power of telekinesis",
+    "ops2": "The ability to control the weather?,"
+  },
+  {
+    "ops1": "Would you rather live in a world without music",
+    "ops2": "Without art?,"
+  },
+  {
+    "ops1": "Would you rather have the ability to instantly learn any skill",
+    "ops2": "Be a master of persuasion?,"
+  },
+  {
+    "ops1": "Would you rather have the power of super hearing",
+    "ops2": "The ability to become invisible?,"
+  },
+  {
+    "ops1": "Would you rather have the ability to time travel to the past",
+    "ops2": "The future?,"
+  },
+  {
+    "ops1": "Would you rather have the power to control minds",
+    "ops2": "The power to control technology?,"
+  },
+  {
+    "ops1": "Would you rather live in a world where everyone knows your thoughts",
+    "ops2": "Where no one knows your thoughts?,"
+  },
+  {
+    "ops1": "Would you rather lick the bottom of a worn shoe",
+    "ops2": "Eat from a stranger's feet?,"
+  },
+  {
+    "ops1": "Would you rather find the true love of your life",
+    "ops2": "Be friends with all of your favorite celebrities?,"
+  },
+  {
+    "ops1": "Would you rather fall down a flight of stairs",
+    "ops2": "Get thrown out of a moving vehicle at 50mph?,"
+  },
+  {
+    "ops1": "Would you rather have the power of super strength",
+    "ops2": "The ability to breathe underwater?,"
+  },
+  {
+    "ops1": "Always be 10 minutes late",
+    "ops2": "Always be 20 minutes early?,"
+  },
+  {
+    "ops1": "Lose all of your money and valuables",
+    "ops2": "All of the pictures you have ever taken?,"
+  },
+  {
+    "ops1": "Be famous when you are alive and forgotten when you die",
+    "ops2": "Unknown when you are alive but famous after you die?,"
+  },
+  {
+    "ops1": "Go to jail for 4 years for something you didn't do",
+    "ops2": "Get away with something horrible you did but always live in fear of being caught?,"
+  },
+  {
+    "ops1": "Accidentally be responsible for the death of a child",
+    "ops2": "Accidentally be responsible for the deaths of three adults?,"
+  },
+  {
+    "ops1": "Your shirts be always two sizes too big",
+    "ops2": "One size too small?,"
+  },
+  {
+    "ops1": "Live in the wilderness far from civilization",
+    "ops2": "Live on the streets of a city as a homeless person?,"
+  },
+  {
+    "ops1": "The general public think you are a horrible person but your family be very proud of you",
+    "ops2": "Your family think you are a horrible person but the general public be very proud of you?,"
+  },
+  {
+    "ops1": "Live your entire life in a virtual reality where all your wishes are granted",
+    "ops2": "In the real world?,"
+  },
+  {
+    "ops1": "Be alone for the rest of your life",
+    "ops2": "Always be surrounded by annoying people?,"
+  },
+  {
+    "ops1": "Have an easy job working for someone else",
+    "ops2": "Work for yourself but work incredibly hard?,"
+  },
+  {
+    "ops1": "Be the first person to explore a planet",
+    "ops2": "Be the inventor of a drug that cures a deadly disease?,"
+  },
+  {
+    "ops1": "Have a horrible short term memory",
+    "ops2": "A horrible long term memory?,"
+  },
+  {
+    "ops1": "Be completely invisible for one day",
+    "ops2": "Be able to fly for one day?,"
+  },
+  {
+    "ops1": "Be locked in a room that is constantly dark for a week",
+    "ops2": "A room that is constantly bright for a week?,"
+  },
+  {
+    "ops1": "Be poor but help people",
+    "ops2": "Become incredibly rich by hurting people?,"
+  },
+  {
+    "ops1": "Live without the internet",
+    "ops2": "Live without AC and heating?,"
+  },
+  {
+    "ops1": "Have a horrible job, but be able to retire comfortably in 10 years",
+    "ops2": "Have your dream job, but have to work until the day you die?,"
+  },
+  {
+    "ops1": "Find your true love",
+    "ops2": "A suitcase with five million dollars inside?,"
+  },
+  {
+    "ops1": "Be able to teleport anywhere",
+    "ops2": "Be able to read minds?,"
+  },
+  {
+    "ops1": "Die in 20 years with no regrets",
+    "ops2": "Die in 50 years with many regrets?,"
+  },
+  {
+    "ops1": "Be feared by all",
+    "ops2": "Loved by all?,"
+  },
+  {
+    "ops1": "Be transported permanently 500 years into the future",
+    "ops2": "500 years into the past?,"
+  },
+  {
+    "ops1": "Never be able to use a touchscreen",
+    "ops2": "Never be able to use a keyboard and mouse?,"
+  },
+  {
+    "ops1": "Be able to control fire",
+    "ops2": "Water?,"
+  },
+  {
+    "ops1": "Have everything you eat be too salty",
+    "ops2": "Not salty enough no matter how much salt you add?,"
+  },
+  {
+    "ops1": "Have hands that kept growing as you got older",
+    "ops2": "Feet that kept growing as you got older?,"
+  },
+  {
+    "ops1": "Have unlimited sushi for life",
+    "ops2": "Unlimited tacos for life? (both are amazingly delicious and can be any type of sushi / taco you want),"
+  },
+  {
+    "ops1": "Be unable to use search engines",
+    "ops2": "Unable to use social media?,"
+  },
+  {
+    "ops1": "Give up bathing for a month",
+    "ops2": "Give up the internet for a month?,"
+  },
+  {
+    "ops1": "Donate your body to science",
+    "ops2": "Donate your organs to people who need them?,"
+  },
+  {
+    "ops1": "Go back to age 5 with everything you know now",
+    "ops2": "Know now everything your future self will learn?,"
+  },
+  {
+    "ops1": "Relive the same day for 365 days",
+    "ops2": "Lose a year of your life?,"
+  },
+  {
+    "ops1": "Have a golden voice",
+    "ops2": "A silver tongue?,"
+  },
+  {
+    "ops1": "Be able to control animals (but not humans) with your mind",
+    "ops2": "Control electronics with your mind?,"
+  },
+  {
+    "ops1": "Suddenly be elected a senator",
+    "ops2": "Suddenly become a CEO of a major company. (You won't have any more knowledge about how to do either job than you do right now.),"
+  },
+  {
+    "ops1": "Sell all of your possessions",
+    "ops2": "Sell one of your organs?,"
+  },
+  {
+    "ops1": "Lose all of your memories from birth to now",
+    "ops2": "Lose your ability to make new long term memories?,"
+  },
+  {
+    "ops1": "Be infamous in history books",
+    "ops2": "Be forgotten after your death?,"
+  },
+  {
+    "ops1": "Be beautiful / handsome but stupid",
+    "ops2": "Intelligent but ugly?,"
+  },
+  {
+    "ops1": "Get one free round trip international plane ticket every year",
+    "ops2": "Be able to fly domestic anytime for free?,"
+  },
+  {
+    "ops1": "Be balding but fit",
+    "ops2": "Overweight with a full head of hair?,"
+  },
+  {
+    "ops1": "Be able to be free from junk mail",
+    "ops2": "Free from email spam for the rest of your life?,"
+  },
+  {
+    "ops1": "Be fluent in all languages and never be able to travel",
+    "ops2": "Be able to travel anywhere for a year but never be able to learn a word of a different language?,"
+  },
+  {
+    "ops1": "Have an unlimited international first class ticket",
+    "ops2": "Never have to pay for food at restaurants?,"
+  },
+  {
+    "ops1": "See what was behind every closed door",
+    "ops2": "Be able to guess the combination of every safe on the first try?,"
+  },
+  {
+    "ops1": "Never be able to eat meat",
+    "ops2": "Never be able to eat vegetables?,"
+  },
+  {
+    "ops1": "Give up watching TV / movies for a year",
+    "ops2": "Give up playing games for a year?,"
+  },
+  {
+    "ops1": "Always be able to see 5 minutes into the future",
+    "ops2": "Always be able to see 100 years into the future?,"
+  },
+  {
+    "ops1": "Super sensitive taste",
+    "ops2": "Super sensitive hearing?,"
+  },
+  {
+    "ops1": "Be a practicing doctor",
+    "ops2": "A medical researcher?,"
+  },
+  {
+    "ops1": "Be married to a 10 with a bad personality",
+    "ops2": "A 6 with an amazing personality?,"
+  },
+  {
+    "ops1": "Never be able to drink sodas like coke again",
+    "ops2": "Only be able to drink sodas and nothing else?,"
+  },
+  {
+    "ops1": "Have amazingly fast typing / texting speed",
+    "ops2": "Be able to read ridiculously fast?,"
+  },
+  {
+    "ops1": "Know the history of every object you touched",
+    "ops2": "Be able to talk to animals?,"
+  },
+  {
+    "ops1": "Be a reverse centaur",
+    "ops2": "A reverse mermaid/merman?,"
+  },
+  {
+    "ops1": "Have constantly dry eyes",
+    "ops2": "A constant runny nose?,"
+  },
+  {
+    "ops1": "Be a famous director",
+    "ops2": "A famous actor?,"
+  },
+  {
+    "ops1": "Give up all drinks except for water",
+    "ops2": "Give up eating anything that was cooked in an oven?,"
+  },
+  {
+    "ops1": "Be constantly tired no matter how much you sleep",
+    "ops2": "Constantly hungry no matter what you eat? Assuming that there are no health problems besides the feeling of hunger and sleepiness.,"
+  },
+  {
+    "ops1": "Have to read aloud every word you read",
+    "ops2": "Sing everything you say out loud?,"
+  },
+  {
+    "ops1": "Have whatever you are thinking appear above your head for everyone to see",
+    "ops2": "Have absolutely everything you do live streamed for anyone to see?,"
+  },
+  {
+    "ops1": "Be put in a maximum security federal prison with the hardest of the hardened criminals for one year",
+    "ops2": "Be put in a relatively relaxed prison where wall street types are held for ten years?,"
+  },
+  {
+    "ops1": "Kill one innocent person",
+    "ops2": "Five people who committed minor crimes?,"
+  },
+  {
+    "ops1": "Have a completely automated home",
+    "ops2": "A self-driving car?,"
+  },
+  {
+    "ops1": "Work very hard at a rewarding job",
+    "ops2": "Hardly have to work at a job that isn't rewarding?,"
+  },
+  {
+    "ops1": "Be held in high regard by your parents",
+    "ops2": "Your friends?,"
+  },
+  {
+    "ops1": "Be an amazing painter",
+    "ops2": "A brilliant mathematician?,"
+  },
+  {
+    "ops1": "Be reincarnated as a fly",
+    "ops2": "Just cease to exist after you die?,"
+  },
+  {
+    "ops1": "Be able to go to any theme park in the world for free for the rest of your life",
+    "ops2": "Eat for free at any drive through restaurant for the rest of your life?,"
+  },
+  {
+    "ops1": "Be only able to watch the few movies with a rotten tomatoes score of 95-100%",
+    "ops2": "Only be able to watch the majority of movies with a rotten tomatoes score of 94% and lower?,"
+  },
+  {
+    "ops1": "Never lose your phone again",
+    "ops2": "Never lose your keys again?,"
+  },
+  {
+    "ops1": "Have one real get out of jail free card",
+    "ops2": "A key that opens any door?,"
+  },
+  {
+    "ops1": "Have a criminal justice system that actually works and is fair",
+    "ops2": "An administrative government that is free of corruption?,"
+  },
+  {
+    "ops1": "Have real political power but be relatively poor",
+    "ops2": "Be ridiculously rich and have no political power?,"
+  },
+  {
+    "ops1": "Have the power to gently nudge anyone's decisions",
+    "ops2": "Have complete puppet master control of five people?,"
+  },
+  {
+    "ops1": "Have everyone laugh at your jokes but not find anyone else's jokes funny",
+    "ops2": "Have no one laugh at your jokes but you still find other people's jokes funny?,"
+  },
+  {
+    "ops1": "Be the absolute best at something that no one takes seriously",
+    "ops2": "Be well above average but not anywhere near the best at something well respected?,"
+  },
+  {
+    "ops1": "Lose the ability to read",
+    "ops2": "Lose the ability to speak?,"
+  },
+  {
+    "ops1": "Live under a sky with no stars at night",
+    "ops2": "Live under a sky with no clouds during the day?,"
+  },
+  {
+    "ops1": "Humans go to the moon again",
+    "ops2": "Go to mars?,"
+  },
+  {
+    "ops1": "Never get angry",
+    "ops2": "Never be envious?,"
+  },
+  {
+    "ops1": "Have free Wi-Fi wherever you go",
+    "ops2": "Be able to drink unlimited free coffee at any coffee shop?,"
+  },
+  {
+    "ops1": "Be compelled to high five everyone you meet",
+    "ops2": "Be compelled to give wedgies to anyone in a green shirt?,"
+  },
+  {
+    "ops1": "Live in a house with see-through walls in a city",
+    "ops2": "In the same see-though house but in the middle of a forest far from civilization?,"
+  },
+  {
+    "ops1": "Take amazing selfies but all of your other pictures are horrible",
+    "ops2": "Take breathtaking photographs of anything but yourself?,"
+  },
+  {
+    "ops1": "Use a push lawn mower with a bar that is far too high",
+    "ops2": "Far too low?,"
+  },
+  {
+    "ops1": "Be able to dodge anything no matter how fast it's moving",
+    "ops2": "Be able ask any three questions and have them answered accurately?,"
+  },
+  {
+    "ops1": "Live on the beach",
+    "ops2": "In a cabin in the woods?,"
+  },
+  {
+    "ops1": "Lose your left hand",
+    "ops2": "Right foot?,"
+  },
+  {
+    "ops1": "Face your fears",
+    "ops2": "Forget that you have them?,"
+  },
+  {
+    "ops1": "Be forced to dance every time you heard music",
+    "ops2": "Be forced to sing along to any song you heard?,"
+  },
+  {
+    "ops1": "Have skin that changes color based on your emotions",
+    "ops2": "Tattoos appear all over your body depicting what you did yesterday?,"
+  },
+  {
+    "ops1": "Live in a utopia as a normal person",
+    "ops2": "In a dystopia but you are the supreme ruler?,"
+  },
+  {
+    "ops1": "Snitch on your best friend for a crime they committed",
+    "ops2": "Go to jail for the crime they committed?,"
+  },
+  {
+    "ops1": "Have everything on your phone right now (browsing history, photos, etc.) made public to anyone who Google's your name",
+    "ops2": "Never use a cell phone again?,"
+  },
+  {
+    "ops1": "Eat a box of dry spaghetti noodles",
+    "ops2": "A cup of uncooked rice?,"
+  },
+  {
+    "ops1": "Wake up as a new random person every year and have full control of them for the whole year",
+    "ops2": "Once a week spend a day inside a stranger without having any control of them?,"
+  },
+  {
+    "ops1": "Be born again in a totally different life",
+    "ops2": "Born again with all the knowledge you have now?,"
+  },
+  {
+    "ops1": "Be lost in a bad part of town",
+    "ops2": "Lost in the forest?,"
+  },
+  {
+    "ops1": "Never get a paper cut again",
+    "ops2": "Never get something stuck in your eye again?,"
+  },
+  {
+    "ops1": "Randomly time travel +/- 20 years every time you fart",
+    "ops2": "Teleport to a different place on earth (on land, not water) every time you sneeze?,"
+  },
+  {
+    "ops1": "The aliens that make first contact be robotic",
+    "ops2": "Organic?,"
+  },
+  {
+    "ops1": "Be famous but ridiculed",
+    "ops2": "Be just a normal person?,"
+  },
+  {
+    "ops1": "Be an amazing virtuoso at any instrument but only if you play naked",
+    "ops2": "Be able to speak any language but only if close your eyes and dance while you are doing it?,"
+  },
+  {
+    "ops1": "Have a flying carpet",
+    "ops2": "A car that can drive underwater?,"
+  },
+  {
+    "ops1": "Be an amazing artist but not be able to see any of the art you created",
+    "ops2": "Be an amazing musician but not be able to hear any of the music you create?,"
+  },
+  {
+    "ops1": "There be a perpetual water balloon war going on in your city / town",
+    "ops2": "A perpetual food fight?,"
+  },
+  {
+    "ops1": "Find five dollars on the ground",
+    "ops2": "Find all of your missing socks?,"
+  },
+  {
+    "ops1": "Never have another embarrassing fall in public",
+    "ops2": "Never feel the need to pass gas in public again?,"
+  },
+  {
+    "ops1": "Be able to talk to land animals, animals that fly,",
+    "ops2": "Animals that live under the water?,"
+  },
+  {
+    "ops1": "Lose your best friend",
+    "ops2": "All of your friends except for your best friend?,"
+  },
+  {
+    "ops1": "It be impossible for you to be woken up for 11 straight hours every day but you wake up feeling amazing",
+    "ops2": "You can be woken up normally but never feel totally rested?,"
+  },
+  {
+    "ops1": "Be stuck on a space station alone with no communication but have lifetime supply of canned beans & water, with 100% certainty of rescue, but not sure if it will be in 1 hour",
+    "ops2": "25 years,"
+  },
+  {
+    "ops1": "Work four-day weeks",
+    "ops2": "Work two months on and one month off?,"
+  },
+  {
+    "ops1": "Become CEO for a day",
+    "ops2": "Receive a bonus?,"
+  },
+  {
+    "ops1": "Have a fully stocked snack bar",
+    "ops2": "A limitless coffee machine?,"
+  },
+  {
+    "ops1": "Work more hours and have a short commute",
+    "ops2": "Work less hours and have a long commute?,"
+  },
+  {
+    "ops1": "Take your child to work",
+    "ops2": "Your pet?,"
+  },
+  {
+    "ops1": "Bike",
+    "ops2": "Drive to work?,"
+  },
+  {
+    "ops1": "Work for a startup",
+    "ops2": "A corporation?,"
+  },
+  {
+    "ops1": "Go on a nearby business trip alone",
+    "ops2": "Travel far away with all of your coworkers?,"
+  },
+  {
+    "ops1": "Have a terrible boss and a good job",
+    "ops2": "A good boss and a terrible job?,"
+  },
+  {
+    "ops1": "Work a job where you interact with people all day",
+    "ops2": "Work a job where you are at a desk all day?,"
+  },
+  {
+    "ops1": "Sit near the printer",
+    "ops2": "The water cooler?,"
+  },
+  {
+    "ops1": "Use only a pencil",
+    "ops2": "Only a pen?,"
+  },
+  {
+    "ops1": "Work in yoga poses",
+    "ops2": "Do work at yoga?,"
+  },
+  {
+    "ops1": "Steal someone\u00e2\u20ac\u2122s lunch",
+    "ops2": "Have your lunch stolen?,"
+  },
+  {
+    "ops1": "Walk to work",
+    "ops2": "Drive?,"
+  },
+  {
+    "ops1": "Have a day off",
+    "ops2": "A day alone at the office?,"
+  },
+  {
+    "ops1": "Support your favorite team at home",
+    "ops2": "Away?,"
+  },
+  {
+    "ops1": "Do team building online",
+    "ops2": "In person?,"
+  },
+  {
+    "ops1": "Be on a small team",
+    "ops2": "A large one?,"
+  },
+  {
+    "ops1": "Be the leader",
+    "ops2": "Follow the leader?,"
+  },
+  {
+    "ops1": "Come in early",
+    "ops2": "Leave late?,"
+  },
+  {
+    "ops1": "Play baseball with your coworkers",
+    "ops2": "Do trivia?,"
+  },
+  {
+    "ops1": "Be the only person in an office of monkeys",
+    "ops2": "The online monkey in an office of people?,"
+  },
+  {
+    "ops1": "Sing in front of your coworkers",
+    "ops2": "Dance?,"
+  },
+  {
+    "ops1": "Have dinner with your team",
+    "ops2": "Lunch?,"
+  },
+  {
+    "ops1": "Attend an office party",
+    "ops2": "An office BBQ?,"
+  },
+  {
+    "ops1": "Have an office dog",
+    "ops2": "Cat?,"
+  },
+  {
+    "ops1": "Fly on a magic carpet",
+    "ops2": "Own an invisibility cloak?,"
+  },
+  {
+    "ops1": "Eat only hot dogs",
+    "ops2": "Mac and cheese for the rest of your life?,"
+  },
+  {
+    "ops1": "Meet Big Bird",
+    "ops2": "Barney?,"
+  },
+  {
+    "ops1": "Teleport",
+    "ops2": "Read minds?,"
+  },
+  {
+    "ops1": "Have ice cream for breakfast",
+    "ops2": "Go to school in your pajamas?,"
+  },
+  {
+    "ops1": "Have an extra finger",
+    "ops2": "Extra toe?,"
+  },
+  {
+    "ops1": "Have a pet dog",
+    "ops2": "Cat?,"
+  },
+  {
+    "ops1": "Be a firefighter",
+    "ops2": "Police officer?,"
+  },
+  {
+    "ops1": "Fight a dragon",
+    "ops2": "Hippopotamus?,"
+  },
+  {
+    "ops1": "Meet Superman",
+    "ops2": "Elsa?,"
+  },
+  {
+    "ops1": "Go without your phone",
+    "ops2": "Dinner?,"
+  },
+  {
+    "ops1": "Go on a diet",
+    "ops2": "Work out regularly?,"
+  },
+  {
+    "ops1": "Go vegan",
+    "ops2": "Give up your favorite food?,"
+  },
+  {
+    "ops1": "Go skydiving",
+    "ops2": "Snowboarding?,"
+  },
+  {
+    "ops1": "Move out of your parents\u00e2\u20ac\u2122 house",
+    "ops2": "Buy a new car?,"
+  },
+  {
+    "ops1": "Get free college",
+    "ops2": "Free healthcare?,"
+  },
+  {
+    "ops1": "Run for student council",
+    "ops2": "Volunteer at a local homeless shelter?,"
+  },
+  {
+    "ops1": "Have no heating",
+    "ops2": "No air conditioning?,"
+  },
+  {
+    "ops1": "Go backpacking in South America",
+    "ops2": "Travel across Europe?,"
+  },
+  {
+    "ops1": "Know what you will be doing five years in the future",
+    "ops2": "Take life as it comes?,"
+  },
+  {
+    "ops1": "Kiss in Paris",
+    "ops2": "Kiss in a tent in the woods?,"
+  },
+  {
+    "ops1": "Go on a date at the movies",
+    "ops2": "At a museum?,"
+  },
+  {
+    "ops1": "Plan out your date",
+    "ops2": "Go with the flow?,"
+  },
+  {
+    "ops1": "Go on a video call date",
+    "ops2": "Socially-distanced date?,"
+  },
+  {
+    "ops1": "Wear matching outfits",
+    "ops2": "Get matching tattoos?,"
+  },
+  {
+    "ops1": "Go for a stroll on the beach",
+    "ops2": "Grab morning coffee together?,"
+  },
+  {
+    "ops1": "Go on a fancy date every once a month",
+    "ops2": "Low-cost dates more frequently?,"
+  },
+  {
+    "ops1": "Propose in front of a crowd",
+    "ops2": "Privately?,"
+  },
+  {
+    "ops1": "Have a small",
+    "ops2": "Big wedding?,"
+  },
+  {
+    "ops1": "Travel the world with your partner",
+    "ops2": "Settle in a special spot of your own?,"
+  },
+  {
+    "ops1": "Have the ability to fly",
+    "ops2": "Speak any language?,"
+  },
+  {
+    "ops1": "Be the strongest man on earth",
+    "ops2": "The smartest man on earth?,"
+  },
+  {
+    "ops1": "Lose your sense of taste",
+    "ops2": "Sight?,"
+  },
+  {
+    "ops1": "Go to the gym",
+    "ops2": "Go for a run?,"
+  },
+  {
+    "ops1": "Follow your dreams",
+    "ops2": "Become wealthy?,"
+  },
+  {
+    "ops1": "Work for the best boss",
+    "ops2": "Be your own boss?,"
+  },
+  {
+    "ops1": "Be hairy",
+    "ops2": "Completely bald?,"
+  },
+  {
+    "ops1": "Eat healthier",
+    "ops2": "Exercise regularly?,"
+  },
+  {
+    "ops1": "Visit the mountains",
+    "ops2": "The sea?,"
+  },
+  {
+    "ops1": "Meet the girl of your dreams in ten years",
+    "ops2": "Meet ten girls now?,"
+  },
+  {
+    "ops1": "Buy your girlfriends diamond rings",
+    "ops2": "Take them on an island getaway?,"
+  },
+  {
+    "ops1": "Have fun dating around",
+    "ops2": "Meet your dream guy tomorrow?,"
+  },
+  {
+    "ops1": "Have the powers of Wonder Woman",
+    "ops2": "Captain Marvel?,"
+  },
+  {
+    "ops1": "Have your date pay",
+    "ops2": "Pay for your own meal?,"
+  },
+  {
+    "ops1": "Own all the clothes you could ever want",
+    "ops2": "All the shoes?,"
+  },
+  {
+    "ops1": "Have a high-powered job and no time with your family",
+    "ops2": "An average job and plenty of time with your family?,"
+  },
+  {
+    "ops1": "Attend a hip-hop",
+    "ops2": "Rock concert?,"
+  },
+  {
+    "ops1": "Spend a day as Kim Kardashian",
+    "ops2": "Paris Hilton?,"
+  },
+  {
+    "ops1": "Arrive overdressed",
+    "ops2": "Underdressed to an event?,"
+  },
+  {
+    "ops1": "Take care of your friend\u00e2\u20ac\u2122s dog",
+    "ops2": "Baby?,"
+  },
+  {
+    "ops1": "Live alone",
+    "ops2": "With roommates?,"
+  },
+  {
+    "ops1": "Earn more money and be busier",
+    "ops2": "Earn less money and have more time to yourself?,"
+  },
+  {
+    "ops1": "Pursue your dreams",
+    "ops2": "Have a stable, high-earning job?,"
+  },
+  {
+    "ops1": "Spend a weekend without your phone",
+    "ops2": "Laptop?,"
+  },
+  {
+    "ops1": "Spend a month without Instagram",
+    "ops2": "Facebook?,"
+  },
+  {
+    "ops1": "Use a dating app",
+    "ops2": "Go on a blind date?,"
+  },
+  {
+    "ops1": "Get married in your early twenties",
+    "ops2": "Late thirties?,"
+  },
+  {
+    "ops1": "Have a lot of acquaintances",
+    "ops2": "Just a few close friends?,"
+  },
+  {
+    "ops1": "Pay off student loans",
+    "ops2": "Buy a house?,"
+  },
+  {
+    "ops1": "Go back to elementary school",
+    "ops2": "Jump to retirement?,"
+  },
+  {
+    "ops1": "Live forever",
+    "ops2": "Pass naturally in your sleep?,"
+  },
+  {
+    "ops1": "Know you were about to die of cancer",
+    "ops2": "Live the remainder of your life unknowing?,"
+  },
+  {
+    "ops1": "Bury your child",
+    "ops2": "Have your child bury you?,"
+  },
+  {
+    "ops1": "Date someone you love",
+    "ops2": "Date someone who loves you?,"
+  },
+  {
+    "ops1": "Marry for love",
+    "ops2": "For financial security?,"
+  },
+  {
+    "ops1": "Give up your dreams and live comfortably",
+    "ops2": "Struggle penniless until you pass?,"
+  },
+  {
+    "ops1": "Kill one person on purpose",
+    "ops2": "Twenty people accidentally?,"
+  },
+  {
+    "ops1": "Keep the death penalty",
+    "ops2": "Abolish it?,"
+  },
+  {
+    "ops1": "Have the right to privacy",
+    "ops2": "Security?,"
+  },
+  {
+    "ops1": "Have no one show up to your wedding",
+    "ops2": "Your funeral?,"
+  },
+  {
+    "ops1": "Fight one bear-sized duck",
+    "ops2": "Ten duck-sized bears?,"
+  },
+  {
+    "ops1": "Be without elbows",
+    "ops2": "Without knees?,"
+  },
+  {
+    "ops1": "Have shrimp for fingers",
+    "ops2": "Screaming nipples?,"
+  },
+  {
+    "ops1": "Have smelly feet",
+    "ops2": "Food stuck in your teeth all day?,"
+  },
+  {
+    "ops1": "Be the world\u00e2\u20ac\u2122s worst superhero",
+    "ops2": "Live the most boring existence ever?,"
+  },
+  {
+    "ops1": "Never fart uncontrollably",
+    "ops2": "Never find a bathroom when you need one?,"
+  },
+  {
+    "ops1": "Be a giant hamster",
+    "ops2": "A tiny rhino?,"
+  },
+  {
+    "ops1": "Be rich and ugly",
+    "ops2": "Poor and good-looking?,"
+  },
+  {
+    "ops1": "Save the world and get no credit",
+    "ops2": "Let the world go up in flames?,"
+  },
+  {
+    "ops1": "Talk like Batman",
+    "ops2": "Mickey Mouse for the rest of your life?,"
+  },
+  {
+    "ops1": "Jump in mud",
+    "ops2": "Forget to brush your teeth?,"
+  },
+  {
+    "ops1": "Never shower again",
+    "ops2": "Learn the secrets of the universe?,"
+  },
+  {
+    "ops1": "Have bad body odor",
+    "ops2": "Bad breath?,"
+  },
+  {
+    "ops1": "Spill food on your clothes constantly",
+    "ops2": "Trip over the stairs constantly?,"
+  },
+  {
+    "ops1": "Wade through a river of mud",
+    "ops2": "Fall into a dumpster?"
+  },
+  {
+    "ops1": "Always know when people are lying",
+    "ops2": "Always get away with lying"
+  },
+  {
+    "ops1": "Be a cat",
+    "ops2": "Be a dog"
+  },
+  {
+    "ops1": "Be rich",
+    "ops2": "Be famous"
+  },
+  {
+    "ops1": "Be black in a white neighborhood",
+    "ops2": "Be white in a black neighborhood"
+  },
+  {
+    "ops1": "Be unable to open doors unassisted",
+    "ops2": "Be unable to climb stairs unassisted"
+  },
+  {
+    "ops1": "Be John Lennon",
+    "ops2": "Be Paul McCartney"
+  },
+  {
+    "ops1": "Drive 200 miiles well over the legal drunken limit",
+    "ops2": "Drive 200 miles after being awake for 72 hours straight"
+  },
+  {
+    "ops1": "Live in Brazil",
+    "ops2": "Live in New York"
+  },
+  {
+    "ops1": "Be forced to watch My Little Pony for 24 hours",
+    "ops2": "Have the theme song stuck in your head for the rest of your life"
+  },
+  {
+    "ops1": "Always drive under the speeding limit",
+    "ops2": "Always drive over the speeding limit"
+  },
+  {
+    "ops1": "Go one year without your teeth",
+    "ops2": "Go one year without the Internet"
+  },
+  {
+    "ops1": "Chocolate",
+    "ops2": "Vanilla"
+  },
+  {
+    "ops1": "Hang out with Pooh Bear",
+    "ops2": "Hang out with Baloo from the Jungle Book"
+  },
+  {
+    "ops1": "Have a college/university named after you",
+    "ops2": "Have a sports stadium named after you"
+  },
+  {
+    "ops1": "Get one million dollars",
+    "ops2": "Find true love"
+  },
+  {
+    "ops1": "Glue your eyes shut with super glue",
+    "ops2": "Spill hot glue over your naked lap"
+  },
+  {
+    "ops1": "Control your dreams",
+    "ops2": "Watch them the next day"
+  },
+  {
+    "ops1": "Save the world but nobody knows",
+    "ops2": "Save the world but die as a hero in the the process"
+  },
+  {
+    "ops1": "Know everything in your partner's past",
+    "ops2": "Know nothing from your partner's past"
+  },
+  {
+    "ops1": "Be a Jedi",
+    "ops2": "Be a Sith"
+  },
+  {
+    "ops1": "Always dissappoint people",
+    "ops2": "Always anger people"
+  },
+  {
+    "ops1": "Have blue skin",
+    "ops2": "Have red skin"
+  },
+  {
+    "ops1": "Have your best friend be a girl",
+    "ops2": "Have your best friend be a guy"
+  },
+  {
+    "ops1": "Have a lot of time but no freedom",
+    "ops2": "Have freedom but no time"
+  },
+  {
+    "ops1": "Super-human memory (ability to retain all information you learn)",
+    "ops2": "Teleportation"
+  },
+  {
+    "ops1": "Play Pacman",
+    "ops2": "Play Space Invaders"
+  },
+  {
+    "ops1": "Have a baby dragon",
+    "ops2": "Have a baby phoenix"
+  },
+  {
+    "ops1": "Have Pokemon be real",
+    "ops2": "Superheroes exist"
+  },
+  {
+    "ops1": "Have your brain transplanted into a robot",
+    "ops2": "Have your brain transplanted into the opposite sex"
+  },
+  {
+    "ops1": "Have the ability to rewind 24 hours three times each year",
+    "ops2": "Be able to consciously control your dreams and remember them in great details"
+  },
+  {
+    "ops1": "Live an extra 50 years",
+    "ops2": "Be guaranteed entrance to Heaven"
+  },
+  {
+    "ops1": "Hamburger",
+    "ops2": "Hot Dog"
+  },
+  {
+    "ops1": "Get paid to read every book",
+    "ops2": "Get paid to watch every TV show"
+  },
+  {
+    "ops1": "Do everything you would want in those 5 minutes",
+    "ops2": "Call your family"
+  },
+  {
+    "ops1": "Be attractive and poor",
+    "ops2": "Be ugly and rich"
+  },
+  {
+    "ops1": "Live in a giant peach",
+    "ops2": "Live in a giant shoe"
+  },
+  {
+    "ops1": "Be a vegetarian and love a meat eater",
+    "ops2": "Be a meat eater and love a vegetarian"
+  },
+  {
+    "ops1": "Be a famous country singer",
+    "ops2": "Be a famous blues guitarist"
+  },
+  {
+    "ops1": "Be a girl with a buzz cut",
+    "ops2": "Be a boy with thick, long, curly hair"
+  },
+  {
+    "ops1": "Live forever (or until the end of the Universe)",
+    "ops2": "Die right now with no afterlife"
+  },
+  {
+    "ops1": "Mansion in Beverly Hills",
+    "ops2": "Penthouse in Manhattan"
+  },
+  {
+    "ops1": "Be the first to climb Mt. Everest",
+    "ops2": "Be the first on the Moon"
+  },
+  {
+    "ops1": "Have to sleep 3 hours everyday",
+    "ops2": "Have to sleep 15 hours everyday"
+  },
+  {
+    "ops1": "Know exactly what happened in Area 51",
+    "ops2": "Accept $1 million"
+  },
+  {
+    "ops1": "Live until you're 80 but be morbidly obese",
+    "ops2": "Live until you're 50 but have supermodel looks"
+  },
+  {
+    "ops1": "Be wanted",
+    "ops2": "Be needed"
+  },
+  {
+    "ops1": "Win a 1-day shopping spree to any store",
+    "ops2": "Win a 2-week vacation to any destination"
+  },
+  {
+    "ops1": "Eat fast food burgers every night",
+    "ops2": "Eat Chinese Take-out every night"
+  },
+  {
+    "ops1": "Lose the ability to feel emotions",
+    "ops2": "Be physically paralyzed"
+  },
+  {
+    "ops1": "Be on Mars",
+    "ops2": "Be on the Moon"
+  },
+  {
+    "ops1": "Marry your best friend",
+    "ops2": "Marry a complete stranger"
+  },
+  {
+    "ops1": "McDonalds",
+    "ops2": "Burger King"
+  },
+  {
+    "ops1": "Coke",
+    "ops2": "Pepsi"
+  },
+  {
+    "ops1": "Milk Chocolate",
+    "ops2": "Dark Chocolate"
+  },
+  {
+    "ops1": "Discord",
+    "ops2": "Skype"
+  },
+  {
+    "ops1": "Apple",
+    "ops2": "Android"
+  },
+  {
+    "ops1": "Would you rather always be 10 minutes late",
+    "ops2": "Always be 20 minutes early?"
+  },
+  {
+    "ops1": "Would you rather lose all of your money and valuables",
+    "ops2": "All of the pictures you have ever taken?"
+  },
+  {
+    "ops1": "Would you rather be able to see 10 minutes into your own future",
+    "ops2": "10 minutes into the future of anyone but yourself?"
+  },
+  {
+    "ops1": "Would you rather be famous when you are alive and forgotten when you die",
+    "ops2": "Unknown when you are alive but famous after you die?"
+  },
+  {
+    "ops1": "Would you rather go to jail for 4 years for something you didn\u00e2\u20ac\u2122t do",
+    "ops2": "Get away with something horrible you did but always live in fear of being caught?"
+  },
+  {
+    "ops1": "Would you rather accidentally be responsible for the death of a child",
+    "ops2": "Accidentally be responsible for the deaths of three adults?"
+  },
+  {
+    "ops1": "Would you rather your shirts be always two sizes too big",
+    "ops2": "One size too small?"
+  },
+  {
+    "ops1": "Would you rather live in the wilderness far from civilization",
+    "ops2": "Live on the streets of a city as a homeless person?"
+  },
+  {
+    "ops1": "Would you rather the general public think you are a horrible person but your family be very proud of you",
+    "ops2": "Your family think you are a horrible person but the general public be very proud of you?"
+  },
+  {
+    "ops1": "Would you rather live your entire life in a virtual reality where all your wishes are granted",
+    "ops2": "In the real world?"
+  },
+  {
+    "ops1": "Would you rather be alone for the rest of your life",
+    "ops2": "Always be surrounded by annoying people?"
+  },
+  {
+    "ops1": "Would you rather have an easy job working for someone else",
+    "ops2": "Work for yourself but work incredibly hard?"
+  },
+  {
+    "ops1": "Would you rather be the first person to explore a planet",
+    "ops2": "Be the inventor of a drug that cures a deadly disease?"
+  },
+  {
+    "ops1": "Would you rather have a horrible short term memory",
+    "ops2": "A horrible long term memory?"
+  },
+  {
+    "ops1": "Would you rather be completely invisible for one day",
+    "ops2": "Be able to fly for one day?"
+  },
+  {
+    "ops1": "Would you rather be locked in a room that is constantly dark for a week",
+    "ops2": "A room that is constantly bright for a week?"
+  },
+  {
+    "ops1": "Would you rather be poor but help people",
+    "ops2": "Become incredibly rich by hurting people?"
+  },
+  {
+    "ops1": "Would you rather live without the internet",
+    "ops2": "Live without AC and heating?"
+  },
+  {
+    "ops1": "Would you rather have a horrible job, but be able to retire comfortably in 10 years",
+    "ops2": "Have your dream job, but have to work until the day you die?"
+  },
+  {
+    "ops1": "Would you rather find your true love",
+    "ops2": "A suitcase with five million dollars inside?"
+  },
+  {
+    "ops1": "Would you rather be able to teleport anywhere",
+    "ops2": "Be able to read minds?"
+  },
+  {
+    "ops1": "Would you rather die in 20 years with no regrets",
+    "ops2": "Die in 50 years with many regrets?"
+  },
+  {
+    "ops1": "Would you rather be feared by all",
+    "ops2": "Loved by all?"
+  },
+  {
+    "ops1": "Would you rather be transported permanently 500 years into the future",
+    "ops2": "500 years into the past?"
+  },
+  {
+    "ops1": "Would you rather never be able to use a touchscreen",
+    "ops2": "Never be able to use a keyboard and mouse?"
+  },
+  {
+    "ops1": "Would you rather be able to control fire",
+    "ops2": "Water?"
+  },
+  {
+    "ops1": "Would you rather have everything you eat be too salty",
+    "ops2": "Not salty enough no matter how much salt you add?"
+  },
+  {
+    "ops1": "Would you rather have hands that kept growing as you got older",
+    "ops2": "Feet that kept growing as you got older?"
+  },
+  {
+    "ops1": "Would you rather have unlimited sushi for life",
+    "ops2": "Unlimited tacos for life? (both are amazingly delicious and can be any type of sushi / taco you want)"
+  },
+  {
+    "ops1": "Would you rather be unable to use search engines",
+    "ops2": "Unable to use social media?"
+  },
+  {
+    "ops1": "Would you rather give up bathing for a month",
+    "ops2": "Give up the internet for a month?"
+  },
+  {
+    "ops1": "Would you rather donate your body to science",
+    "ops2": "Donate your organs to people who need them?"
+  },
+  {
+    "ops1": "Would you rather go back to age 5 with everything you know now",
+    "ops2": "Know now everything your future self will learn?"
+  },
+  {
+    "ops1": "Would you rather relive the same day for 365 days",
+    "ops2": "Lose a year of your life?"
+  },
+  {
+    "ops1": "Would you rather have a golden voice",
+    "ops2": "A silver tongue?"
+  },
+  {
+    "ops1": "Would you rather be able to control animals (but not humans) with your mind",
+    "ops2": "Control electronics with your mind?"
+  },
+  {
+    "ops1": "Would you rather suddenly be elected a senator",
+    "ops2": "Suddenly become a CEO of a major company. (You won\u00e2\u20ac\u2122t have any more knowledge about how to do either job than you do right now.)"
+  },
+  {
+    "ops1": "Would you rather sell all of your possessions",
+    "ops2": "Sell one of your organs?"
+  },
+  {
+    "ops1": "Would you rather lose all of your memories from birth to now",
+    "ops2": "Lose your ability to make new long term memories?"
+  },
+  {
+    "ops1": "Would you rather be infamous in history books",
+    "ops2": "Be forgotten after your death?"
+  },
+  {
+    "ops1": "Would you rather be beautiful / handsome but stupid",
+    "ops2": "Intelligent but ugly?"
+  },
+  {
+    "ops1": "Would you rather get one free round trip international plane ticket every year",
+    "ops2": "Be able to fly domestic anytime for free?"
+  },
+  {
+    "ops1": "Would you rather be balding but fit",
+    "ops2": "Overweight with a full head of hair?"
+  },
+  {
+    "ops1": "Would you rather be able to be free from junk mail",
+    "ops2": "Free from email spam for the rest of your life?"
+  },
+  {
+    "ops1": "Would you rather be fluent in all languages and never be able to travel",
+    "ops2": "Be able to travel anywhere for a year but never be able to learn a word of a different language?"
+  },
+  {
+    "ops1": "Would you rather have an unlimited international first class ticket",
+    "ops2": "Never have to pay for food at restaurants?"
+  },
+  {
+    "ops1": "Would you rather see what was behind every closed door",
+    "ops2": "Be able to guess the combination of every safe on the first try?"
+  },
+  {
+    "ops1": "Would you rather never be able to eat meat",
+    "ops2": "Never be able to eat vegetables?"
+  },
+  {
+    "ops1": "Would you rather give up watching TV / movies for a year",
+    "ops2": "Give up playing games for a year?"
+  },
+  {
+    "ops1": "Would you rather always be able to see 5 minutes into the future",
+    "ops2": "Always be able to see 100 years into the future?"
+  },
+  {
+    "ops1": "Would you rather super sensitive taste",
+    "ops2": "Super sensitive hearing?"
+  },
+  {
+    "ops1": "Would you rather be a practicing doctor",
+    "ops2": "A medical researcher?"
+  },
+  {
+    "ops1": "Would you rather be married to a 10 with a bad personality",
+    "ops2": "A 6 with an amazing personality?"
+  },
+  {
+    "ops1": "Would you rather never be able to drink sodas like coke again",
+    "ops2": "Only be able to drink sodas and nothing else?"
+  },
+  {
+    "ops1": "Would you rather have amazingly fast typing / texting speed",
+    "ops2": "Be able to read ridiculously fast?"
+  },
+  {
+    "ops1": "Would you rather know the history of every object you touched",
+    "ops2": "Be able to talk to animals?"
+  },
+  {
+    "ops1": "Would you rather be a reverse centaur",
+    "ops2": "A reverse mermaid/merman?"
+  },
+  {
+    "ops1": "Would you rather have constantly dry eyes",
+    "ops2": "A constant runny nose?"
+  },
+  {
+    "ops1": "Would you rather be a famous director",
+    "ops2": "A famous actor?"
+  },
+  {
+    "ops1": "Would you rather give up all drinks except for water",
+    "ops2": "Give up eating anything that was cooked in an oven?"
+  },
+  {
+    "ops1": "Would you rather be constantly tired no matter how much you sleep",
+    "ops2": "Constantly hungry no matter what you eat? Assuming that there are no health problems besides the feeling of hunger and sleepiness."
+  },
+  {
+    "ops1": "Would you rather have to read aloud every word you read",
+    "ops2": "Sing everything you say out loud?"
+  },
+  {
+    "ops1": "Would you rather have whatever you are thinking appear above your head for everyone to see",
+    "ops2": "Have absolutely everything you do live streamed for anyone to see?"
+  },
+  {
+    "ops1": "Would you rather be put in a maximum security federal prison with the hardest of the hardened criminals for one year",
+    "ops2": "Be put in a relatively relaxed prison where wall street types are held for ten years?"
+  },
+  {
+    "ops1": "Would you rather kill one innocent person",
+    "ops2": "Five people who committed minor crimes?"
+  },
+  {
+    "ops1": "Would you rather have a completely automated home",
+    "ops2": "A self-driving car?"
+  },
+  {
+    "ops1": "Would you rather work very hard at a rewarding job",
+    "ops2": "Hardly have to work at a job that isn\u00e2\u20ac\u2122t rewarding?"
+  },
+  {
+    "ops1": "Would you rather be held in high regard by your parents",
+    "ops2": "Your friends?"
+  },
+  {
+    "ops1": "Would you rather be an amazing painter",
+    "ops2": "A brilliant mathematician?"
+  },
+  {
+    "ops1": "Would you rather be reincarnated as a fly",
+    "ops2": "Just cease to exist after you die?"
+  },
+  {
+    "ops1": "Would you rather be able to go to any theme park in the world for free for the rest of your life",
+    "ops2": "Eat for free at any drive through restaurant for the rest of your life?"
+  },
+  {
+    "ops1": "Would you rather be only able to watch the few movies with a rotten tomatoes score of 95-100%",
+    "ops2": "Only be able to watch the majority of movies with a rotten tomatoes score of 94% and lower?"
+  },
+  {
+    "ops1": "Would you rather never lose your phone again",
+    "ops2": "Never lose your keys again?"
+  },
+  {
+    "ops1": "Would you rather have one real get out of jail free card",
+    "ops2": "A key that opens any door?"
+  },
+  {
+    "ops1": "Would you rather have a criminal justice system that actually works and is fair",
+    "ops2": "An administrative government that is free of corruption?"
+  },
+  {
+    "ops1": "Would you rather have real political power but be relatively poor",
+    "ops2": "Be ridiculously rich and have no political power?"
+  },
+  {
+    "ops1": "Would you rather have the power to gently nudge anyone\u00e2\u20ac\u2122s decisions",
+    "ops2": "Have complete puppet master control of five people?"
+  },
+  {
+    "ops1": "Would you rather have everyone laugh at your jokes but not find anyone else\u00e2\u20ac\u2122s jokes funny",
+    "ops2": "Have no one laugh at your jokes but you still find other people\u00e2\u20ac\u2122s jokes funny?"
+  },
+  {
+    "ops1": "Would you rather be the absolute best at something that no one takes seriously",
+    "ops2": "Be well above average but not anywhere near the best at something well respected?"
+  },
+  {
+    "ops1": "Would you rather lose the ability to read",
+    "ops2": "Lose the ability to speak?"
+  },
+  {
+    "ops1": "Would you rather live under a sky with no stars at night",
+    "ops2": "Live under a sky with no clouds during the day?"
+  },
+  {
+    "ops1": "Would you rather humans go to the moon again",
+    "ops2": "Go to mars?"
+  },
+  {
+    "ops1": "Would you rather never get angry",
+    "ops2": "Never be envious?"
+  },
+  {
+    "ops1": "Would you rather have free Wi-Fi wherever you go",
+    "ops2": "Be able to drink unlimited free coffee at any coffee shop?"
+  },
+  {
+    "ops1": "Would you rather be compelled to high five everyone you meet",
+    "ops2": "Be compelled to give wedgies to anyone in a green shirt?"
+  },
+  {
+    "ops1": "Would you rather live in a house with see-through walls in a city",
+    "ops2": "In the same see-though house but in the middle of a forest far from civilization?"
+  },
+  {
+    "ops1": "Would you rather take amazing selfies but all of your other pictures are horrible",
+    "ops2": "Take breathtaking photographs of anything but yourself?"
+  },
+  {
+    "ops1": "Would you rather use a push lawn mower with a bar that is far too high",
+    "ops2": "Far too low?"
+  },
+  {
+    "ops1": "Would you rather be able to dodge anything no matter how fast it\u00e2\u20ac\u2122s moving",
+    "ops2": "Be able ask any three questions and have them answered accurately?"
+  },
+  {
+    "ops1": "Would you rather live on the beach",
+    "ops2": "In a cabin in the woods?"
+  },
+  {
+    "ops1": "Would you rather lose your left hand",
+    "ops2": "Right foot?"
+  },
+  {
+    "ops1": "Would you rather face your fears",
+    "ops2": "Forget that you have them?"
+  },
+  {
+    "ops1": "Would you rather be forced to dance every time you heard music",
+    "ops2": "Be forced to sing along to any song you heard?"
+  },
+  {
+    "ops1": "Would you rather have skin that changes color based on your emotions",
+    "ops2": "Tattoos appear all over your body depicting what you did yesterday?"
+  },
+  {
+    "ops1": "Would you rather live in a utopia as a normal person",
+    "ops2": "In a dystopia but you are the supreme ruler?"
+  },
+  {
+    "ops1": "Would you rather snitch on your best friend for a crime they committed",
+    "ops2": "Go to jail for the crime they committed?"
+  },
+  {
+    "ops1": "Would you rather have everything on your phone right now (browsing history, photos, etc.) made public to anyone who Google\u00e2\u20ac\u2122s you name",
+    "ops2": "Never use a cell phone again?"
+  },
+  {
+    "ops1": "Would you rather eat a box of dry spaghetti noodles",
+    "ops2": "A cup of uncooked rice?"
+  },
+  {
+    "ops1": "Would you rather wake up as a new random person every year and have full control of them for the whole year",
+    "ops2": "Once a week spend a day inside a stranger without having any control of them?"
+  },
+  {
+    "ops1": "Would you rather be born again in a totally different life",
+    "ops2": "Born again with all the knowledge you have now?"
+  },
+  {
+    "ops1": "Would you rather be forced to kill a kitten",
+    "ops2": "Kill a puppy?"
+  },
+  {
+    "ops1": "Would you rather be lost in a bad part of town",
+    "ops2": "Lost in the forest?"
+  },
+  {
+    "ops1": "Would you rather never get a paper cut again",
+    "ops2": "Never get something stuck in your eye again?"
+  },
+  {
+    "ops1": "Would you rather randomly time travel +/- 20 years every time you fart",
+    "ops2": "Teleport to a different place on earth (on land, not water) every time you sneeze?"
+  },
+  {
+    "ops1": "Would you rather the aliens that make first contact be robotic",
+    "ops2": "Organic?"
+  },
+  {
+    "ops1": "Would you rather be famous but ridiculed",
+    "ops2": "Be just a normal person?"
+  },
+  {
+    "ops1": "Would you rather be an amazing virtuoso at any instrument but only if you play naked",
+    "ops2": "Be able to speak any language but only if close your eyes and dance while you are doing it?"
+  },
+  {
+    "ops1": "Would you rather have a flying carpet",
+    "ops2": "A car that can drive underwater?"
+  },
+  {
+    "ops1": "Would you rather be an amazing artist but not be able to see any of the art you created",
+    "ops2": "Be an amazing musician but not be able to hear any of the music you create?"
+  },
+  {
+    "ops1": "Would you rather there be a perpetual water balloon war going on in your city / town",
+    "ops2": "A perpetual food fight?"
+  },
+  {
+    "ops1": "Would you rather find five dollars on the ground",
+    "ops2": "Find all of your missing socks?"
+  },
+  {
+    "ops1": "Would you rather never have another embarrassing fall in public",
+    "ops2": "Never feel the need to pass gas in public again?"
+  },
+  {
+    "ops1": "Would you rather be able to talk to land animals, animals that fly,",
+    "ops2": "Animals that live under the water?"
+  },
+  {
+    "ops1": "Would you rather lose your best friend",
+    "ops2": "All of your friends except for your best friend?"
+  },
+  {
+    "ops1": "Would you rather it be impossible for you to be woken up for 11 straight hours every day but you wake up feeling amazing",
+    "ops2": "You can be woken up normally but never feel totally rested?"
+  },
+  {
+    "ops1": "Would you rather wake up every morning with a new hundred-dollar bill in your pocket but not know where it came from",
+    "ops2": "Wake up every morning with a new fifty-dollar bill in your pocket and know where it comes from?"
+  },
+  {
+    "ops1": "Would you rather everything you dream each night come true when you wake up",
+    "ops2": "Everything a randomly chosen person dreams each night come true when they wake up?"
+  },
+  {
+    "ops1": "Would you rather get 5 dollars for every song you sang in public",
+    "ops2": "50 dollars for every stranger you kiss?"
+  },
+  {
+    "ops1": "Would you rather have a boomerang that would find and kill any one person of your choosing, anywhere in the world, but can only be used once",
+    "ops2": "A boomerang that always returns to you with one dollar?"
+  },
+  {
+    "ops1": "Would you rather never be stuck in traffic again",
+    "ops2": "Never get another cold?"
+  },
+  {
+    "ops1": "Would you rather have to fart loudly once, every time you have a serious conversation",
+    "ops2": "Have to burp after every kiss?"
+  },
+  {
+    "ops1": "Would you rather know the uncomfortable truth of the world",
+    "ops2": "Believe a comforting lie?"
+  },
+  {
+    "ops1": "Would you rather blink at twice the normal rate",
+    "ops2": "Not be able to blink for 5 minutes but then have to close your eyes for 10 seconds every 5 minutes?"
+  },
+  {
+    "ops1": "Would you rather have a cute well behaved child that stays at an age of your choosing for their entire life",
+    "ops2": "A child that develops from a baby to 18 years old in 2 years and then ages normally?"
+  },
+  {
+    "ops1": "Would you rather it never stops snowing (the snow never piles up)",
+    "ops2": "Never stops raining (the rain never causes floods)?"
+  },
+  {
+    "ops1": "Would you rather have a bottomless box of Legos",
+    "ops2": "A bottomless gas tank?"
+  },
+  {
+    "ops1": "Would you rather all conspiracy theories be true",
+    "ops2": "Live in a world where no leaders really know what they are doing?"
+  },
+  {
+    "ops1": "Would you rather all plants scream when you cut them / pick their fruit",
+    "ops2": "Animals beg for their lives before they are killed?"
+  },
+  {
+    "ops1": "Would you rather wake up each morning to find that a random animal appendage has replaced your non dominant arm",
+    "ops2": "Permanently replace your bottom half with an animal bottom of your choice?"
+  },
+  {
+    "ops1": "Would you rather every shirt you ever wear to be kind of itchy",
+    "ops2": "Only be able to use 1 ply toilet paper?"
+  },
+  {
+    "ops1": "Would you rather not be able to see any colors",
+    "ops2": "Have mild but constant tinnitus (ringing in the ears)?"
+  },
+  {
+    "ops1": "Would you rather go bald",
+    "ops2": "Be forever cursed to have terrible haircuts?"
+  },
+  {
+    "ops1": "Would you rather never be able to leave your own country",
+    "ops2": "Never be able to fly in an airplane?"
+  },
+  {
+    "ops1": "Would you rather fight for a cause you believe in but doubt will succeed",
+    "ops2": "Fight for a cause that you only partially believe in but have a high chance of your cause succeeding?"
+  },
+  {
+    "ops1": "Would you rather have no fingers",
+    "ops2": "No elbows?"
+  },
+  {
+    "ops1": "Would you rather have edible spaghetti hair that regrows every night",
+    "ops2": "Sweat maple syrup?"
+  },
+  {
+    "ops1": "Would you rather have everything in your house perfectly organized by a professional",
+    "ops2": "Have a professional event company throw the best party you\u00e2\u20ac\u2122ve ever been to, in your honor?"
+  },
+  {
+    "ops1": "Would you rather have one nipple",
+    "ops2": "Two belly buttons?"
+  },
+  {
+    "ops1": "Would you rather be forced to eat only spicy food",
+    "ops2": "Only incredibly bland food?"
+  },
+  {
+    "ops1": "Would you rather never have a toilet clog on you again",
+    "ops2": "Never have the power go out again?"
+  },
+  {
+    "ops1": "Would you rather have all traffic lights you approach be green",
+    "ops2": "Never have to stand in line again?"
+  },
+  {
+    "ops1": "Would you rather have all of your clothes fit perfectly",
+    "ops2": "Have the most comfortable pillow, blankets, and sheets in existence?"
+  },
+  {
+    "ops1": "Would you rather wake up in the middle of an unknown desert",
+    "ops2": "Wake up in a row boat on an unknown body of water?"
+  },
+  {
+    "ops1": "Would you rather be famous for inventing a deadly new weapon",
+    "ops2": "Invent something that helps the world but someone else gets all the credit for inventing it?"
+  },
+  {
+    "ops1": "Would you rather always have a great body for your entire life but have slightly below average intelligence",
+    "ops2": "Have a mediocre body for your entire life but be slightly above average in intelligence?"
+  },
+  {
+    "ops1": "Would you rather become twice as strong when both of your fingers are stuck in your ears",
+    "ops2": "Crawl twice as fast as you can run?"
+  },
+  {
+    "ops1": "Would you rather be in debt for $100,000",
+    "ops2": "Never be able to make more than $3,500 a month?"
+  },
+  {
+    "ops1": "Would you rather be the best in the world at climbing trees",
+    "ops2": "The best in the world at jumping rope?"
+  },
+  {
+    "ops1": "Would you rather live in a giant desert",
+    "ops2": "A giant dessert?"
+  },
+  {
+    "ops1": "Would you rather have everything you draw become real but be terrible at drawing",
+    "ops2": "Be able to fly but only as fast as you can walk?"
+  },
+  {
+    "ops1": "Would you rather have a map that shows you the location of anything you want to find and can be used again and again but has a margin of error of up to a mile",
+    "ops2": "A device that allows you to find the location of anything you want with incredible accuracy but can only be used three times?"
+  },
+  {
+    "ops1": "Would you rather never run out of battery power for whatever phone and tablet you own",
+    "ops2": "Always have free Wi-Fi wherever you go?"
+  },
+  {
+    "ops1": "Would you rather live until you are 200 but look like you are 200 the whole time even though you are healthy",
+    "ops2": "Look like you are 25 all the way until you die at age 65?"
+  },
+  {
+    "ops1": "Would you rather 20 butterflies instantly appear from nowhere every time you cough",
+    "ops2": "100 butterflies die somewhere in the world every time you cough?"
+  },
+  {
+    "ops1": "Would you rather live a comfortable and peaceful life in the woods in a small cabin",
+    "ops2": "A life full of conflict in a mansion in a city?"
+  },
+  {
+    "ops1": "Would you rather have unlimited amounts of any material you want to build a house but you have to build the house yourself",
+    "ops2": "Have a famed architect design and build you a modest house?"
+  },
+  {
+    "ops1": "Would you rather have all animals feel compelled to obey you if you come within 10 feet of them",
+    "ops2": "Be given the opportunity to genetically design a pet that will be loyal only to you with the combined DNA of three animals?"
+  },
+  {
+    "ops1": "Would you rather be covered in fur",
+    "ops2": "Covered in scales?"
+  },
+  {
+    "ops1": "Would you rather your only mode of transportation be a donkey",
+    "ops2": "A giraffe?"
+  },
+  {
+    "ops1": "Would you rather live in a cave",
+    "ops2": "Live in a tree house?"
+  },
+  {
+    "ops1": "Would you rather never sweat again",
+    "ops2": "Never feel cold again?"
+  },
+  {
+    "ops1": "Would you rather never have to clean a bathroom again",
+    "ops2": "Never have to do dishes again?"
+  },
+  {
+    "ops1": "Would you rather eat an egg with a half formed chicken inside",
+    "ops2": "Eat five cooked cockroaches?"
+  },
+  {
+    "ops1": "Would you rather wear a wedding dress / tuxedo every single day",
+    "ops2": "Wear a bathing suit every single day?"
+  },
+  {
+    "ops1": "Would you rather be an unimportant character in the last movie you saw",
+    "ops2": "An unimportant character in the last book you read?"
+  },
+  {
+    "ops1": "Would you rather be a bowling champion",
+    "ops2": "A curling champion?"
+  },
+  {
+    "ops1": "Would you rather have the police hunting you for a murder you didn\u00e2\u20ac\u2122t commit",
+    "ops2": "A psychopathic clown hunting you?"
+  },
+  {
+    "ops1": "Would you rather be so afraid of heights that you can\u00e2\u20ac\u2122t go to the second floor of a building",
+    "ops2": "Be so afraid of the sun that you can only leave the house on rainy days?"
+  },
+  {
+    "ops1": "Would you rather live in a haunted house where the ghosts ignore you and do their own thing",
+    "ops2": "Be a ghost in a house living out a pleasant and uneventful week from your life again and again?"
+  },
+  {
+    "ops1": "Would you rather be an average person in the present",
+    "ops2": "A king 2500 years ago?"
+  },
+  {
+    "ops1": "Would you rather be fantastic at riding horses",
+    "ops2": "Amazing at driving dirt bikes?"
+  },
+  {
+    "ops1": "Would you rather write a novel that will be widely considered the most important book in the past 200 years but you and the book will only be appreciated after your death",
+    "ops2": "Be the most famous erotica writer of your generation?"
+  },
+  {
+    "ops1": "Would you rather spend the rest of your life with a sailboat as your home",
+    "ops2": "An RV as your home?"
+  },
+  {
+    "ops1": "Would you rather get really tipsy from just one sip of alcohol and ridiculously drunk from just one alcoholic drink",
+    "ops2": "Never get drunk no matter how much alcohol you drank?"
+  },
+  {
+    "ops1": "Would you rather be completely insane and know that you are insane",
+    "ops2": "Completely insane and believe you are sane?"
+  },
+  {
+    "ops1": "Would you rather be hired for a well-paying job that you lied to get and have no idea how to do",
+    "ops2": "Be about to give the most important presentation of your life but you can\u00e2\u20ac\u2122t remember any of the material you prepared?"
+  },
+  {
+    "ops1": "Would you rather eat a sandwich made from 4 ingredients in your fridge chosen at random",
+    "ops2": "Eat a sandwich made by a group of your friends from 4 ingredients in your fridge?"
+  },
+  {
+    "ops1": "Would you rather have plants grow at 10 times their normal rate when you are near",
+    "ops2": "For people and animals to stop aging when you are near them?"
+  },
+  {
+    "ops1": "Would you rather have chapped lips that never heal",
+    "ops2": "A terrible dandruff that can\u00e2\u20ac\u2122t be treated?"
+  },
+  {
+    "ops1": "Would you rather have out of control body hair",
+    "ops2": "Out of control body odor?"
+  },
+  {
+    "ops1": "Would you rather know all the mysteries of the universe",
+    "ops2": "Know every outcome of every choice you make?"
+  },
+  {
+    "ops1": "Would you rather have someone secretly give you LSD on a random day and time once every 6 months",
+    "ops2": "Have everyone in the world all take LSD at the same time once every 5 years?"
+  },
+  {
+    "ops1": "Would you rather be the life of the party and the funniest person your friends know but suffer from depression",
+    "ops2": "Be happy and content but people think you are boring and unfunny?"
+  },
+  {
+    "ops1": "Would you rather never be able to wear pants",
+    "ops2": "Never be able to wear shorts?"
+  },
+  {
+    "ops1": "Would you rather be unable to have kids",
+    "ops2": "Only be able to conceive quintuplets?"
+  },
+  {
+    "ops1": "Would you rather only wear one color each day",
+    "ops2": "Have to wear seven colors each day?"
+  },
+  {
+    "ops1": "Would you rather eat rice with every meal",
+    "ops2": "Eat bread with every meal?"
+  },
+  {
+    "ops1": "Would you rather have no eyebrows",
+    "ops2": "Only one eyebrow?"
+  },
+  {
+    "ops1": "Would you rather all electrical devices mysteriously stop working (possibly forever)",
+    "ops2": "The governments of the world are only run by people going through puberty?"
+  },
+  {
+    "ops1": "Would you rather everyone be required to wear identical silver jump suits",
+    "ops2": "Any time two people meet and are wearing an identical article of clothing they must fight to the death?"
+  },
+  {
+    "ops1": "Would you rather have all dogs try to attack you when they see you",
+    "ops2": "All birds try to attack you when they see you?"
+  },
+  {
+    "ops1": "Would you rather be unable to move your body every time it rains",
+    "ops2": "Not be able to stop moving while the sun is out?"
+  },
+  {
+    "ops1": "Would you rather die if you didn\u00e2\u20ac\u2122t slap a new person on the butt every 12 hours",
+    "ops2": "Die if you didn\u00e2\u20ac\u2122t kill someone every year?"
+  },
+  {
+    "ops1": "Would you rather spend two years with your soul mate only to have them die and you never love again",
+    "ops2": "Spend your life with someone nice you settled for?"
+  },
+  {
+    "ops1": "Would you rather clean rest stop toilets",
+    "ops2": "A slaughterhouse for a living?"
+  },
+  {
+    "ops1": "Would you rather live the next 10 years of your life in China",
+    "ops2": "Russia?"
+  },
+  {
+    "ops1": "Would you rather have a horribly corrupt government",
+    "ops2": "No government?"
+  },
+  {
+    "ops1": "Would you rather always feel like someone is following you but no one is",
+    "ops2": "Actually have someone following you?"
+  },
+  {
+    "ops1": "Would you rather travel the world for a year all expenses paid",
+    "ops2": "Have $50,000 to spend on whatever you want?"
+  },
+  {
+    "ops1": "Would you rather live without hot water for showers / baths",
+    "ops2": "Live without a washing machine?"
+  },
+  {
+    "ops1": "Would you rather travel the world for a year on a shoe string budget",
+    "ops2": "Stay in only one country for a year but live in luxury?"
+  },
+  {
+    "ops1": "Would you rather have done something horribly embarrassing and only your best friend knows",
+    "ops2": "Not done something horribly embarrassing but everyone except your best friend thinks you did it?"
+  },
+  {
+    "ops1": "Would you rather do a TED talk",
+    "ops2": "Sing a song on stage at a concert with your favorite singer?"
+  },
+  {
+    "ops1": "Would you rather inherit 20 million dollars",
+    "ops2": "Earn 50 million dollars through your hard work?"
+  },
+  {
+    "ops1": "Would you rather travel for 5 years in an RV",
+    "ops2": "Travel for 5 years in a sailboat?"
+  },
+  {
+    "ops1": "Would you rather have corporations know all of your computer usage",
+    "ops2": "The government know all of your computer usage?"
+  },
+  {
+    "ops1": "Would you rather eat a ketchup sandwich",
+    "ops2": "A Siracha sandwich?"
+  },
+  {
+    "ops1": "Would you rather eat spoonful of wasabi",
+    "ops2": "A spoonful of Tabasco sauce?"
+  },
+  {
+    "ops1": "Would you rather only be able to drink from a straw",
+    "ops2": "Only be able to use a spoon (no fork)?"
+  },
+  {
+    "ops1": "Would you rather be able to talk with the animals",
+    "ops2": "Speak all foreign languages?"
+  },
+  {
+    "ops1": "Would you rather lose your vision",
+    "ops2": "Your hearing?"
+  },
+  {
+    "ops1": "Would you rather always say everything on your mind",
+    "ops2": "Never speak again?"
+  },
+  {
+    "ops1": "Would you rather make a phone call",
+    "ops2": "Send a text?"
+  },
+  {
+    "ops1": "Would you rather explore space",
+    "ops2": "The ocean?"
+  },
+  {
+    "ops1": "Would you rather be a kid your whole life",
+    "ops2": "An adult your whole life?"
+  },
+  {
+    "ops1": "Would you rather have x-ray vision",
+    "ops2": "Magnified hearing?"
+  },
+  {
+    "ops1": "Would you rather be stuck on an island alone",
+    "ops2": "With someone who talks incessantly?"
+  },
+  {
+    "ops1": "Would you rather have to sew all your clothes",
+    "ops2": "Grow your own food?"
+  },
+  {
+    "ops1": "Would you rather be on a survival reality show",
+    "ops2": "Dating game show?"
+  },
+  {
+    "ops1": "Would you rather be the star player on a losing basketball team",
+    "ops2": "Ride the bench on a winning one?"
+  },
+  {
+    "ops1": "Would you rather have all your choices be made by other people",
+    "ops2": "By using a random method?"
+  },
+  {
+    "ops1": "Live stream your entire life for everyone to see",
+    "ops2": "Anyone around you can hear your thoughts for the rest of your life"
+  },
+  {
+    "ops1": "Post every text message you ever sent on the internet",
+    "ops2": "Have tattoos on your forehead depicting everything you did the day before"
+  },
+  {
+    "ops1": "Never be able to use toilet paper",
+    "ops2": "Never be able to brush your teeth"
+  },
+  {
+    "ops1": "See one day into your own future",
+    "ops2": "Visit the after-life one time and return"
+  },
+  {
+    "ops1": "Time travel one time and return",
+    "ops2": "Control humans with your mind forever"
+  },
+  {
+    "ops1": "Live to be 400 and look 400 your entire life",
+    "ops2": "Live to be 80 and look 25 your entire life"
+  },
+  {
+    "ops1": "Be a King/Queen of an empire 2500 years ago",
+    "ops2": "Be the president/prime minister today"
+  },
+  {
+    "ops1": "Be the richest person in the world and live your intended lifetime",
+    "ops2": "Be poor and live forever"
+  },
+  {
+    "ops1": "Lose the ability to read",
+    "ops2": "Lose the ability to speak"
+  },
+  {
+    "ops1": "Lose the ability to pee",
+    "ops2": "Lose the ability to poop"
+  },
+  {
+    "ops1": "Be able to stop time whenever you wanted",
+    "ops2": "Get whatever you want just by thinking it (except life)"
+  },
+  {
+    "ops1": "Randomly time travel +/- 20 years every time you pass gas",
+    "ops2": "Teleport to a different place on earth every time you sneeze (land, not water)"
+  },
+  {
+    "ops1": "Have to scream as loud as you can before starting every conversation \u201cI'm a Leprechaun\u201d",
+    "ops2": "Have to smack every person you have a conversation with and call them an idiot"
+  },
+  {
+    "ops1": "Have your skin change colors based on your emotions forever",
+    "ops2": "Wake up every morning with a randomly different face for a year"
+  },
+  {
+    "ops1": "Save your spouse",
+    "ops2": "Save your child"
+  },
+  {
+    "ops1": "Be Elon Musk",
+    "ops2": "Be Jeff Bezos"
+  },
+  {
+    "ops1": "Be able to have nine lives",
+    "ops2": "Be able to have $9 million dollars with one life"
+  },
+  {
+    "ops1": "Go into the past and meet your ancestors",
+    "ops2": "Go into the future and meet your great-great grandchildren"
+  },
+  {
+    "ops1": "Never have to go to work a day in your life",
+    "ops2": "Never feel tired a day in your life"
+  },
+  {
+    "ops1": "Be the smartest person in the world",
+    "ops2": "Be the wealthiest person in the world"
+  },
+  {
+    "ops1": "Live in constant fear of being assasinated",
+    "ops2": "Have a traumatic injury in your young adult life (full recovery: 5 years)"
+  },
+  {
+    "ops1": "Lick the bottom of a worn shoe",
+    "ops2": "Eat from a strangers feet"
+  },
+  {
+    "ops1": "Find the true love of your life",
+    "ops2": "Be friends with all of your favorite celebrities"
+  },
+  {
+    "ops1": "Fall down a flight of stairs",
+    "ops2": "Get thrown out of a moving vehicle at 50mph"
+  },
+  {
+    "ops1": "Be able to bring 3 dead people you loved back to life",
+    "ops2": "Be guaranteed an extra 20 years on all of your current family member's lives"
+  },
+  {
+    "ops1": "Be able to be invisible",
+    "ops2": "Be able to fly everywhere"
+  },
+  {
+    "ops1": "Find the cure for cancer",
+    "ops2": "Find the solution to world peace"
+  },
+  {
+    "ops1": "Have a mild case of COVID-19 for the rest of your life",
+    "ops2": "Have a heart attack several times a year"
+  },
+  {
+    "ops1": "Be immune from all laws within your country",
+    "ops2": "Be president of your country"
+  },
+  {
+    "ops1": "Be abducted by an alien",
+    "ops2": "Be thrown in jail for a crime you did not commit"
+  },
+  {
+    "ops1": "Always speak your mind (including very harsh truths)",
+    "ops2": "Never speak up for yourself"
+  },
+  {
+    "ops1": "Vomit every time you see the color brown",
+    "ops2": "Have to sneeze ten times whenever you are touched"
+  },
+  {
+    "ops1": "Have to tell your crush your most embarrassing story",
+    "ops2": "Have to stand in a subway naked for one hour"
+  },
+  {
+    "ops1": "Be able to read anyone's mind",
+    "ops2": "Know the exact time you will die"
+  },
+  {
+    "ops1": "Know the exact time when each of your family members will die",
+    "ops2": "Save a group of children from death and give them their intended lifetime"
+  },
+  {
+    "ops1": "Find the meaning of life",
+    "ops2": "Find all of the government's top secrets"
+  },
+  {
+    "ops1": "Marry an exact clone of yourself",
+    "ops2": "Marry your sister/brother"
+  },
+  {
+    "ops1": "Be the smartest person in the world",
+    "ops2": "Be the strongest person in the world"
+  },
+  {
+    "ops1": "Be born into a rich family",
+    "ops2": "Work for all your wealth but have more"
+  },
+  {
+    "ops1": "Be very sensitive to everything people say",
+    "ops2": "Never be able to hear the opinions of others"
+  },
+  {
+    "ops1": "Be able to have any pet you want",
+    "ops2": "Be able to have any electronic device you want"
+  },
+  {
+    "ops1": "Lose one eye",
+    "ops2": "Lose one arm"
+  },
+  {
+    "ops1": "Be able to taste any food by looking at it",
+    "ops2": "Be able to feel anything by looking at it"
+  },
+  {
+    "ops1": "Visit every state in your country",
+    "ops2": "Visit every country in the world"
+  },
+  {
+    "ops1": "Constantly hear a high pitch sound",
+    "ops2": "Be unable to hear your voice when you speak"
+  },
+  {
+    "ops1": "Live through the bubonic plague",
+    "ops2": "Live through World War One"
+  },
+  {
+    "ops1": "Be able to find anything by thinking about it",
+    "ops2": "Be able to date any person you can think of"
+  },
+  {
+    "ops1": "Stay in high school your entire life but make $100,000/year",
+    "ops2": "Be able to work your dream job but make $60,000/year"
+  },
+  {
+    "ops1": "Live with a complete slob",
+    "ops2": "Live with a complete idiot"
+  },
+  {
+    "ops1": "Be publicly embarrassed but have everyone forget after a year",
+    "ops2": "Have your entire family publicly embarrassed for 2 years"
+  },
+  {
+    "ops1": "Have to live under a bridge ",
+    "ops2": "Have to live inside a strangers bathroom"
+  },
+  {
+    "ops1": "Live through the sinking of the Titanic",
+    "ops2": "Live through a kidnapping"
+  },
+  {
+    "ops1": "Go to work/school everyday hungry ",
+    "ops2": "Go to work/school everyday exhausted "
+  },
+  {
+    "ops1": "Have to urinate on trees",
+    "ops2": "Have to poop on carpets"
+  },
+  {
+    "ops1": "Lick a pile of dog poop",
+    "ops2": "Lick the floor of a school bathroom"
+  },
+  {
+    "ops1": "Live through your biggest fear",
+    "ops2": "Have to relive your biggest regret"
+  },
+  {
+    "ops1": "Never be able to remember names",
+    "ops2": "Never be able to visualize images"
+  },
+  {
+    "ops1": "Live alone for the rest of your life",
+    "ops2": "Live single with 10 kids "
+  },
+  {
+    "ops1": "Have unlimited water",
+    "ops2": "Have unlimited Food"
+  },
+  {
+    "ops1": "Run 5 Miles Everyday",
+    "ops2": "Do 1,000 Jumping Jacks Everyday"
+  },
+  {
+    "ops1": "Kill your dog",
+    "ops2": "Kill your best friend"
+  },
+  {
+    "ops1": "Be an idiot, but receive $1,000,000 each year",
+    "ops2": "Be very smart, but earn $125,000 each year"
+  },
+  {
+    "ops1": "Only be able to remember 3 things perfectly",
+    "ops2": "Have permanent short term memory loss"
+  },
+  {
+    "ops1": "Get super strong every time you get touched",
+    "ops2": "Get super speed every time you get touched"
+  },
+  {
+    "ops1": "Die in front of your friends",
+    "ops2": "Let your friends die in front of you"
+  },
+  {
+    "ops1": "Be stuck in a chickens body your entire life",
+    "ops2": "Be stuck in a pigs body your entire life"
+  },
+  {
+    "ops1": "Have to eat seven cockroaches",
+    "ops2": "Have to eat an entire snake"
+  },
+  {
+    "ops1": "Lose the ability to read",
+    "ops2": "Lose the ability to write"
+  },
+  {
+    "ops1": "Ability to Fly",
+    "ops2": "Ability to become invisible at will"
+  },
+  {
+    "ops1": "Always be 2 hours late",
+    "ops2": "Always be 2 hours early"
+  },
+  {
+    "ops1": "Communicate with animals",
+    "ops2": "Speak all languages fluently"
+  },
+  {
+    "ops1": "Control weather with your mind",
+    "ops2": "Control animals with your mind"
+  },
+  {
+    "ops1": "Have a personal chef",
+    "ops2": "Have a personal driver"
+  },
+  {
+    "ops1": "Ability to breath underwater",
+    "ops2": "Ability to fall from any height without injury"
+  },
+  {
+    "ops1": "Live without social media (Ex: Instagram, Twitter)",
+    "ops2": "Live without video streaming platforms (Ex: Youtube, Netflix)"
+  },
+  {
+    "ops1": "Communicate with your past self",
+    "ops2": "Communicate with your future self"
+  },
+  {
+    "ops1": "Have a photographic Memory",
+    "ops2": "Be able to forget anything at will"
+  },
+  {
+    "ops1": "Have unlimited money",
+    "ops2": "Have unlimited friends"
+  },
+  {
+    "ops1": "Lose 20% of your IQ",
+    "ops2": "Lose 20% of your wealth"
+  },
+  {
+    "ops1": "Live without music",
+    "ops2": "Live without movies"
+  },
+  {
+    "ops1": "Have perfect memory",
+    "ops2": "Have perfect beauty"
+  },
+  {
+    "ops1": "Always be sunny outside",
+    "ops2": "Always be dark outside"
+  },
+  {
+    "ops1": "Lose your spouse",
+    "ops2": "Lose your parents"
+  },
+  {
+    "ops1": "Walk everywhere",
+    "ops2": "Run everywhere"
+  },
+  {
+    "ops1": "Post every text you ever sent on the internet",
+    "ops2": "Post every phone call you ever had on the internet"
+  },
+  {
+    "ops1": "Marry an exact clone of yourself",
+    "ops2": "Never have a life partner"
+  },
+  {
+    "ops1": "Find your true love but loose your career",
+    "ops2": "Have a successful career without love"
+  },
+  {
+    "ops1": "Be born in a rich, but corrupt family",
+    "ops2": "Be born in a poor, but moral family"
+  },
+  {
+    "ops1": "Never lose anything",
+    "ops2": "Never break anything"
+  },
+  {
+    "ops1": "Have a large family",
+    "ops2": "Have a large friend group"
+  },
+  {
+    "ops1": "Permanent Summer",
+    "ops2": "Permanent Winter"
+  },
+  {
+    "ops1": "Have your memory wiped",
+    "ops2": "Have your bank account(s) wiped"
+  },
+  {
+    "ops1": "Have one pet",
+    "ops2": "Have one child"
+  },
+  {
+    "ops1": "Make $350k a year robbing innocent people",
+    "ops2": "Make $40k year helping people in need"
+  },
+  {
+    "ops1": "Live in the Sahara Desert",
+    "ops2": "Live in Antarctica"
+  },
+  {
+    "ops1": "Be able to buy happiness",
+    "ops2": "Be able to buy love"
+  },
+  {
+    "ops1": "Free food for life",
+    "ops2": "Free gas for life"
+  },
+  {
+    "ops1": "Only eat fruit",
+    "ops2": "Only eat meat"
+  },
+  {
+    "ops1": "Know HOW you will die",
+    "ops2": "Know WHEN you will die"
+  },
+  {
+    "ops1": "Have unsupporting friends",
+    "ops2": "Have no friends"
+  },
+  {
+    "ops1": "Always have the urge to poop",
+    "ops2": "Always have the urge to pee"
+  },
+  {
+    "ops1": "Eat the same meals everyday",
+    "ops2": "Only drink water but eat whatever"
+  },
+  {
+    "ops1": "Lose your hearing",
+    "ops2": "Lose your eyesight"
+  },
+  {
+    "ops1": "Lose weight by thinking",
+    "ops2": "Lose weight by eating"
+  },
+  {
+    "ops1": "Never celebrate birthdays",
+    "ops2": "Never celebrate holidays"
+  },
+  {
+    "ops1": "Be stuck living forever",
+    "ops2": "Have one life but have it very well spent"
+  },
+  {
+    "ops1": "Have hands for feet",
+    "ops2": "Have feet for hands"
+  },
+  {
+    "ops1": "Change gender everyday",
+    "ops2": "Change families everyday"
+  },
+  {
+    "ops1": "Be the most famous person in the world",
+    "ops2": "Be the richest person in the world"
+  },
+  {
+    "ops1": "Save 10 People but Sacrifice yourself",
+    "ops2": "Let 10 people die to save yourself"
+  },
+  {
+    "ops1": "Lick a stranger's foot",
+    "ops2": "Lick a stranger's hand"
+  },
+  {
+    "ops1": "Have two arms but one leg",
+    "ops2": "Have two legs but one 1 arm"
+  },
+  {
+    "ops1": "Get $5,000 everytime someone lies to you",
+    "ops2": "Get $100,000 everytime family/friend dies"
+  },
+  {
+    "ops1": "Have world Peace",
+    "ops2": "Have a world that will never end"
+  },
+  {
+    "ops1": "Marry the ugliest person in the world",
+    "ops2": "Marry the dumbest person in the world"
+  },
+  {
+    "ops1": "Do school/work in person",
+    "ops2": "Do school/work at home"
+  },
+  {
+    "ops1": "Have the hottest spouse",
+    "ops2": "Have the smartest spouse"
+  },
+  {
+    "ops1": "Be in a coma for one year",
+    "ops2": "Be in jail for one year"
+  },
+  {
+    "ops1": "Have no internet",
+    "ops2": "Have no personal vehicle"
+  },
+  {
+    "ops1": "Live underwater",
+    "ops2": "Live in space"
+  },
+  {
+    "ops1": "Laugh every time someone cries",
+    "ops2": "Get angry every time someone is happy"
+  },
+  {
+    "ops1": "Be publicly hated but secretly loved by everyone",
+    "ops2": "Be publicly loved but secretly hated by everyone"
+  },
+  {
+    "ops1": "Have a jumpscare every 1 hour",
+    "ops2": "Vomit once everyday"
+  },
+  {
+    "ops1": "Have your entire life made into a movie",
+    "ops2": "Have your entire life written in a book"
+  },
+  {
+    "ops1": "Be a famous social media influencer",
+    "ops2": "Be a famous hollywood movie actor"
+  },
+  {
+    "ops1": "Wear a face mask for the rest of your life",
+    "ops2": "Wear goggles for the rest of your life"
+  },
+  {
+    "ops1": "Be dumb and useless",
+    "ops2": "Be ugly and smelly"
+  },
+  {
+    "ops1": "Be unable to brush your teeth",
+    "ops2": "Be unable to shower"
+  },
+  {
+    "ops1": "Have an extra arm",
+    "ops2": "Have an extra leg"
+  },
+  {
+    "ops1": "Always Rain",
+    "ops2": "Always Snow"
+  },
+  {
+    "ops1": "Have an extremely restrictive diet",
+    "ops2": "Always be constipated"
+  },
+  {
+    "ops1": "Have any ability of your choice",
+    "ops2": "Live in any movie/book series"
+  },
+  {
+    "ops1": "Have a large flood",
+    "ops2": "Have a large drought"
+  },
+  {
+    "ops1": "Have no electricity",
+    "ops2": "Have no indoor plumbing"
+  },
+  {
+    "ops1": "Give up your life right now",
+    "ops2": "Have 100 kids right now"
+  },
+  {
+    "ops1": "Have no one come to your wedding",
+    "ops2": "Have no one come to your birthdays"
+  },
+  {
+    "ops1": "Die alone but have a packed funeral",
+    "ops2": "Have no one come to your funeral"
+  },
+  {
+    "ops1": "Travel your country for free but only by train",
+    "ops2": "Travel the world for free but only by boat"
+  },
+  {
+    "ops1": "Have Invincibility",
+    "ops2": "Have Telekinesis"
+  },
+  {
+    "ops1": "Only have street smarts",
+    "ops2": "Only have book smarts"
+  },
+  {
+    "ops1": "Be able to control water",
+    "ops2": "Be able to control fire"
+  },
+  {
+    "ops1": "Unstable career but make $1m/year",
+    "ops2": "Stable career but make $125k/year"
+  },
+  {
+    "ops1": "Live in a loud city",
+    "ops2": "Live in a secluded area 10 miles from anyone"
+  },
+  {
+    "ops1": "Be able to fly planes",
+    "ops2": "Be able to sail boats"
+  },
+  {
+    "ops1": "Have a 3D printer that can only make food",
+    "ops2": "Have a normal 3d printer that can only make objects"
+  },
+  {
+    "ops1": "Be smart but heavily relied upon",
+    "ops2": "Be stupid but completely taken care of"
+  },
+  {
+    "ops1": "Be granted one wish per year without changing the past",
+    "ops2": "Be able to go back in time and fix one mistake per year"
+  },
+  {
+    "ops1": "Have ten extra toes",
+    "ops2": "Have ten extra fingers"
+  },
+  {
+    "ops1": "Have family but no friends",
+    "ops2": "Have friends but no family"
+  },
+  {
+    "ops1": "Never kill insects",
+    "ops2": "Have someone die anytime you kill an insect"
+  },
+  {
+    "ops1": "Always have an itch somewhere on your body",
+    "ops2": "Always have the feeling of an insect crawling on you"
+  },
+  {
+    "ops1": "Only watch movies",
+    "ops2": "Only listen to music"
+  },
+  {
+    "ops1": "Double your IQ",
+    "ops2": "Double your wealth"
+  },
+  {
+    "ops1": "Always be cold",
+    "ops2": "Always be hot"
+  },
+  {
+    "ops1": "Transform into any object",
+    "ops2": "Transform into any animal"
+  },
+  {
+    "ops1": "Be a dog",
+    "ops2": "Be a cat"
+  },
+  {
+    "ops1": "Only Drink Coca-Cola",
+    "ops2": "Only Drink Pepsi"
+  },
+  {
+    "ops1": "Have a partner that does not like you",
+    "ops2": "Never have a partner"
+  },
+  {
+    "ops1": "Have nothing to drink",
+    "ops2": "Have nothing to eat"
+  },
+  {
+    "ops1": "Stub your toe everytime you walk",
+    "ops2": "Stumble every time you walk up/down stairs"
+  },
+  {
+    "ops1": "Live on another planet",
+    "ops2": "Live on a private island"
+  },
+  {
+    "ops1": "Go permanently bald",
+    "ops2": "Have uncontrollable hair growth"
+  },
+  {
+    "ops1": "Loose your eyebrows",
+    "ops2": "Loose all the hair on your head"
+  },
+  {
+    "ops1": "Have super strength",
+    "ops2": "Have super speed"
+  },
+  {
+    "ops1": "Win the lottery",
+    "ops2": "Find true love"
+  },
+  {
+    "ops1": "Live in a world without war",
+    "ops2": "Live in a world without poverty"
+  },
+  {
+    "ops1": "Have the ability to fly",
+    "ops2": "Have the ability to breathe underwater"
+  },
+  {
+    "ops1": "Have all the power in the world",
+    "ops2": "Have all the knowledge in the world"
+  },
+  {
+    "ops1": "Poop your pants in public",
+    "ops2": "Pee your pants in public"
+  },
+  {
+    "ops1": "Only have 5 hours of a day fully alert",
+    "ops2": "Have a full 14 hour day but be exhausted"
+  },
+  {
+    "ops1": "Be punched once a day",
+    "ops2": "Be kicked twice a day"
+  },
+  {
+    "ops1": "Travel the world",
+    "ops2": "Stay in one place and explore everything it has to offer"
+  },
+  {
+    "ops1": "Be able to heal anyone",
+    "ops2": "Be able to bring dead people back to life"
+  },
+  {
+    "ops1": "Read people's thoughts",
+    "ops2": "Read people's memories"
+  },
+  {
+    "ops1": "Be stuck on the streets for the rest of your life",
+    "ops2": "Be stuck in your home for the rest of your life"
+  },
+  {
+    "ops1": "Always have your fingers caught in the door",
+    "ops2": "Always receive a splinter when touching a door"
+  },
+  {
+    "ops1": "Receive a life prison sentence",
+    "ops2": "Recieve the death penalty"
+  },
+  {
+    "ops1": "Be stuck outside in a tornado",
+    "ops2": "Be stuck outside during a hurricane"
+  },
+  {
+    "ops1": "Host a party",
+    "ops2": "Attend a party"
+  },
+  {
+    "ops1": "Only be able to dance",
+    "ops2": "Only be able to sing"
+  },
+  {
+    "ops1": "Have to kill five people you know",
+    "ops2": "Have to kill one stranger"
+  },
+  {
+    "ops1": "Never get sick",
+    "ops2": "Never have to sleep"
+  },
+  {
+    "ops1": "Only eat sweet food",
+    "ops2": "Only eat spicy food"
+  },
+  {
+    "ops1": "Always have a pebble in your shoe",
+    "ops2": "Always have wet socks"
+  },
+  {
+    "ops1": "Be a leader and make decisions for others",
+    "ops2": "Be a follower and let others make the decisions for you"
+  },
+  {
+    "ops1": "Be able to cook like a professional chef",
+    "ops2": "Sing like a professional singer"
+  },
+  {
+    "ops1": "Have a great memory",
+    "ops2": "Have a great sense of humor"
+  },
+  {
+    "ops1": "Have a reliable, practical car",
+    "ops2": "Have a luxury car that requires tedious weekly maintenance"
+  },
+  {
+    "ops1": "Be a perfect artist",
+    "ops2": "Be a perfect mathematician"
+  },
+  {
+    "ops1": "Travel to a new destination each year",
+    "ops2": "Revisit your favorite destination repeatedly each year"
+  },
+  {
+    "ops1": "Never experience happiness",
+    "ops2": "Never experience sadness (neutral emotion)"
+  },
+  {
+    "ops1": "Have a physically abusive partner",
+    "ops2": "Have an emotionally abusive partner"
+  },
+  {
+    "ops1": "Have a long, fulfilling career with modest success",
+    "ops2": "Short but highly successful career"
+  },
+  {
+    "ops1": "Date someone that is similar to you",
+    "ops2": "Date someone who is very different from you"
+  },
+  {
+    "ops1": "Live under a constant COVID Lockdown",
+    "ops2": "Live freely but risk spreading COVID"
+  },
+  {
+    "ops1": "Have 1 million Tik Tok followers",
+    "ops2": "Have 1 million Instagram followers"
+  },
+  {
+    "ops1": "Be unable to listen to new music",
+    "ops2": "Be unable to relisten to music"
+  },
+  {
+    "ops1": "Lie for a friend cheating on their GF/BF",
+    "ops2": "Snitch on a friend cheating on their GF/BF"
+  },
+  {
+    "ops1": "Always be right",
+    "ops2": "Always get what you want"
+  },
+  {
+    "ops1": "Have very bad spring allergies",
+    "ops2": "Have a very bad Flu strain each winter"
+  },
+  {
+    "ops1": "Be able to control the weather but only within a 5 mile radius",
+    "ops2": "Be able to control the global weather but for ten minutes at a time"
+  },
+  {
+    "ops1": "Be ghosted by your crush",
+    "ops2": "Be told you aren't liked by your crush"
+  },
+  {
+    "ops1": "See the future but be unable to change it",
+    "ops2": "Change the future but be unable to foresee the consequences"
+  },
+  {
+    "ops1": "Have a home pool",
+    "ops2": "Have a home hot tub"
+  },
+  {
+    "ops1": "Always be the center of attention",
+    "ops2": "Always be an observer"
+  },
+  {
+    "ops1": "Be the first to arrive at parties",
+    "ops2": "Be the last to leave parties"
+  },
+  {
+    "ops1": "Get struck by lightning",
+    "ops2": "Get hit by large falling rocks"
+  },
+  {
+    "ops1": "Have a personal maid",
+    "ops2": "Have a personal assistant"
+  },
+  {
+    "ops1": "Have to bike everywhere",
+    "ops2": "Have to rely solely on public transportation"
+  },
+  {
+    "ops1": "Lose the ability to talk",
+    "ops2": "Lose the ability to hear"
+  },
+  {
+    "ops1": "Be good at something but have no passion",
+    "ops2": "Have a passion for something but not be good at it"
+  },
+  {
+    "ops1": "Only eat candy",
+    "ops2": "Only eat cake"
+  },
+  {
+    "ops1": "Always yell when talking",
+    "ops2": "Always whisper when talking"
+  },
+  {
+    "ops1": "Be reincarnated with your past memories but no skill",
+    "ops2": "Be reincarnateed with your past skills but not memory"
+  },
+  {
+    "ops1": "Always have dry lips",
+    "ops2": "Always have dry eyes"
+  },
+  {
+    "ops1": "Get a brain freeze every time you drink anything",
+    "ops2": "Get a toothache every time you eat anything"
+  },
+  {
+    "ops1": "Screem every time you are touched",
+    "ops2": "Flinch every time you are touched"
+  },
+  {
+    "ops1": "Say thank you every time someone insults you",
+    "ops2": "Say screw you anytime someone compliments you"
+  },
+  {
+    "ops1": "Be the only person that doesn't get to live forever",
+    "ops2": "Be the only person that lives forever"
+  },
+  {
+    "ops1": "Be hated for always doing the right thing",
+    "ops2": "Be loved for always doing the wrong thing"
+  },
+  {
+    "ops1": "Go to jail for one year",
+    "ops2": "Receive two years of house arrest"
+  },
+  {
+    "ops1": "Be a cannibal",
+    "ops2": "Be an entomophage (eat insects)"
+  },
+  {
+    "ops1": "Have a painless death right now",
+    "ops2": "Stay alive but have a very painful death when the unknown time comes"
+  },
+  {
+    "ops1": "Have the ability to create anything",
+    "ops2": "Have the ability to destroy anything"
+  },
+  {
+    "ops1": "Only be able to kiss your spouse",
+    "ops2": "Only be able to hug your spouse"
+  },
+  {
+    "ops1": "Be immortal but paralytic (unable to move)",
+    "ops2": "Be mortal without any major medical issues"
+  },
+  {
+    "ops1": "Never be able to lie",
+    "ops2": "Never be able to tell the truth"
+  },
+  {
+    "ops1": "Never listen to music again",
+    "ops2": "Always hear music playing"
+  },
+  {
+    "ops1": "Have to go to school in a shopping cart pushed by your mom",
+    "ops2": "Have to go to school in a wagon pulled by your dad"
+  },
+  {
+    "ops1": "Kill someone but have no one know",
+    "ops2": "Don't kill anyone but have everyone think you did"
+  },
+  {
+    "ops1": "Go to public school",
+    "ops2": "Be homeschooled"
+  },
+  {
+    "ops1": "Be a great painter",
+    "ops2": "Be a great sculptor"
+  },
+  {
+    "ops1": "Only be able to swim in pools with hot water",
+    "ops2": "Only be able to swim in pools with very cold water"
+  },
+  {
+    "ops1": "Have a brain freeze every time you drink",
+    "ops2": "Have a toothache every time you eat"
+  },
+  {
+    "ops1": "Always have a runny, stuffy nose",
+    "ops2": "Always have a mild, dry cough"
+  },
+  {
+    "ops1": "Only drink water",
+    "ops2": "Only drink soda"
+  },
+  {
+    "ops1": "Never be able to see your best friend(s) again",
+    "ops2": "Never be able to see your pet(s) again"
+  },
+  {
+    "ops1": "Never experience romantic love at all",
+    "ops2": "Discover your true love but be unable to have them"
+  },
+  {
+    "ops1": "Poop on yourself once a day",
+    "ops2": "Pee on yourself once a day"
+  },
+  {
+    "ops1": "Drink water from a flushed public toilet",
+    "ops2": "Lick a public bathroom floor"
+  },
+  {
+    "ops1": "Be the smartest but everyone thinks your dumb",
+    "ops2": "Be the dumbest but everyone thinks you're smart"
+  },
+  {
+    "ops1": "Never be able to watch movies",
+    "ops2": "Never be able to watch tv shows"
+  },
+  {
+    "ops1": "Marry your enemy but you will slowly become COMPATIBLE",
+    "ops2": "Marry your crush but you will slowly become INCOMPATIBLE"
+  },
+  {
+    "ops1": "Be the ONLY person that DOESN'T get to live forever",
+    "ops2": "Be the ONLY person that GETS TO live forever"
+  },
+  {
+    "ops1": "Have a romantic relationship with a dog",
+    "ops2": "Have a romantic relationship with a cat"
+  },
+  {
+    "ops1": "Always have a random taste in your mouth",
+    "ops2": "Be unable to have taste in your mouth"
+  },
+  {
+    "ops1": "Play video games for the rest of your life",
+    "ops2": "Watch movies for the rest of your life"
+  },
+  {
+    "ops1": "Be able to slow down time",
+    "ops2": "Be able to speed up time"
+  },
+  {
+    "ops1": "Double your waist size",
+    "ops2": "Double your height"
+  },
+  {
+    "ops1": "Tongue-kiss a dog/cat",
+    "ops2": "Tongue-kiss a stranger's armpit"
+  },
+  {
+    "ops1": "Be blind",
+    "ops2": "Be deaf"
+  },
+  {
+    "ops1": "Have only one hand",
+    "ops2": "Have only one leg"
+  },
+  {
+    "ops1": "Have your eyes ripped out of their sockets",
+    "ops2": "Have your tongue ripped out of your mouth"
+  },
+  {
+    "ops1": "Always be lonely",
+    "ops2": "Always be surrounded by others"
+  },
+  {
+    "ops1": "Have more time",
+    "ops2": "Have more money"
+  },
+  {
+    "ops1": "Live through the 9/11 attack in the U.S",
+    "ops2": "Live through the bombing in Hiroshima"
+  },
+  {
+    "ops1": "Live in a DC world",
+    "ops2": "Live in a Marvel world"
+  },
+  {
+    "ops1": "Be in your favorite video game",
+    "ops2": "Be on your favorite show"
+  },
+  {
+    "ops1": "Have free public transportation",
+    "ops2": "Have free public utilities"
+  },
+  {
+    "ops1": "Be a super villain",
+    "ops2": "Be a superhero"
+  },
+  {
+    "ops1": "Be the only child in your family",
+    "ops2": "Have a lot of siblings"
+  },
+  {
+    "ops1": "Live with people who are obsessed with you",
+    "ops2": "Live with people who hate you"
+  },
+  {
+    "ops1": "Only celebrate your birthday",
+    "ops2": "Only celebrate the birthdays' of others"
+  },
+  {
+    "ops1": "Become any vertebrate animal (Ex: Lion, Bird, Frog)",
+    "ops2": "Become any invertebrate animal (Ex: Insects, Lobster, Jellyfish)"
+  },
+  {
+    "ops1": "Live in a very chaotic society",
+    "ops2": "Live in a strictly controlled society"
+  },
+  {
+    "ops1": "Be able to predict the actions of others",
+    "ops2": "Be able to influence the actions of others"
+  },
+  {
+    "ops1": "Have everything you eat taste like chicken",
+    "ops2": "Have every voice you hear sound like Kanye West"
+  },
+  {
+    "ops1": "Marry your parents",
+    "ops2": "Marry your siblings"
+  },
+  {
+    "ops1": "Drink a shot of hot sauce",
+    "ops2": "Drink a shot of soy sauce"
+  },
+  {
+    "ops1": "Only be able to use curse words",
+    "ops2": "Be mute"
+  },
+  {
+    "ops1": "Have the ability to cure others of disease",
+    "ops2": "Have the ability to only cure yourself of disease"
+  },
+  {
+    "ops1": "Drink sewer water",
+    "ops2": "Eat food in the sewer"
+  },
+  {
+    "ops1": "Go without shampoo for the rest of your life.",
+    "ops2": "Go Without a comb/brush for the rest of your life."
+  },
+  {
+    "ops1": "Receive $1 million today",
+    "ops2": "Receive $5 million in ten years (Not adjusted for inflation)"
+  },
+  {
+    "ops1": "See who loves you",
+    "ops2": "See who hates you"
+  },
+  {
+    "ops1": "Bathe in vomit",
+    "ops2": "Bathe in a pool filled with worms"
+  },
+  {
+    "ops1": "Be super racist",
+    "ops2": "Be super sexist"
+  },
+  {
+    "ops1": "Be 10 times smarter than the smartest person",
+    "ops2": "Be 10 times stronger than the strongest person"
+  },
+  {
+    "ops1": "Pineapple on pizza",
+    "ops2": "No pineapple on pizza"
+  },
+  {
+    "ops1": "Be mean to everyone that is nice to you",
+    "ops2": "Be nice to everyone that is mean to you"
+  },
+  {
+    "ops1": "Have to kill your best friend",
+    "ops2": "Have to kill your sibling"
+  },
+  {
+    "ops1": "Be single for life",
+    "ops2": "Have a partner that acts like a child"
+  },
+  {
+    "ops1": "Be able to hold your breath for ten minutes",
+    "ops2": "Be able to hold notes for ten minutes when singing"
+  },
+  {
+    "ops1": "Have someone die when you touch them",
+    "ops2": "Have someone die when you make eye contact with them"
+  },
+  {
+    "ops1": "Become a god, but with NO powers and be loved",
+    "ops2": "Become satin with all powers and be hated"
+  },
+  {
+    "ops1": "Have bad breath",
+    "ops2": "Have smelly feet"
+  },
+  {
+    "ops1": "Stay isolated for the rest of your life",
+    "ops2": "Have no privacy for the rest of your life"
+  },
+  {
+    "ops1": "Have a home gym",
+    "ops2": "Have a home cinema"
+  },
+  {
+    "ops1": "Have all knowledge but be unable to explain things",
+    "ops2": "Have very limited knowledge but be good at explaining things"
+  },
+  {
+    "ops1": "Have an extra eye",
+    "ops2": "Have an extra ear"
+  },
+  {
+    "ops1": "Get a flat tire",
+    "ops2": "Run out of gas"
+  },
+  {
+    "ops1": "Lose both your arms",
+    "ops2": "Lose both your legs"
+  },
+  {
+    "ops1": "Be funny but not cool",
+    "ops2": "Be cool but not funny"
+  },
+  {
+    "ops1": "$200 every time you get hurt",
+    "ops2": "$20 every time you help someone"
+  },
+  {
+    "ops1": "Be an Elder Sibling",
+    "ops2": "Be a Younger Sibling"
+  },
+  {
+    "ops1": "Only have spoons",
+    "ops2": "Only have forks"
+  },
+  {
+    "ops1": "Always be too cold",
+    "ops2": "Always be too hot"
+  },
+  {
+    "ops1": "Live in Paris but feel depressed",
+    "ops2": "Live in North Korea but feel happy"
+  },
+  {
+    "ops1": "Spend 2 years in prison",
+    "ops2": "Spend your weekends in prison for the next 5 years"
+  },
+  {
+    "ops1": "Have a lazy partner",
+    "ops2": "Have a stupid partner"
+  },
+  {
+    "ops1": "Have a medieval house",
+    "ops2": "Have a modern house"
+  },
+  {
+    "ops1": "Always be with people but feel alone",
+    "ops2": "Always be alone but not feel alone"
+  },
+  {
+    "ops1": "Die before your partner",
+    "ops2": "Die after your partner"
+  },
+  {
+    "ops1": "Only speak in Morse code",
+    "ops2": "Only speak in binary"
+  },
+  {
+    "ops1": "Take care of animals in a shelter",
+    "ops2": "Take care of children in an orphanage"
+  },
+  {
+    "ops1": "Be not cool but smart",
+    "ops2": "Be cool but be dumb"
+  },
+  {
+    "ops1": "Always be constipated",
+    "ops2": "Always have diarrhea"
+  },
+  {
+    "ops1": "Have any item of clothing you want",
+    "ops2": "Have any food item you want"
+  },
+  {
+    "ops1": "Have your bus driver die while driving on a mountain",
+    "ops2": "Have your pilot die while flying"
+  },
+  {
+    "ops1": "Have the power to do whatever you want without getting in trouble",
+    "ops2": "Be able to change the probability of any outcome"
+  },
+  {
+    "ops1": "Control Time",
+    "ops2": "Control Space"
+  },
+  {
+    "ops1": "Fight in an ancient war",
+    "ops2": "Fight in a modern war"
+  },
+  {
+    "ops1": "Have everyone doubt you but succeed",
+    "ops2": "Have everyone believe in you but fail"
+  },
+  {
+    "ops1": "Have your parachute fail while skydiving",
+    "ops2": "Have an engine failure while flying a helicopter"
+  },
+  {
+    "ops1": "Cheat on someone",
+    "ops2": "Be cheated on"
+  },
+  {
+    "ops1": "Stub your toe once every day",
+    "ops2": "Whack your funny bone every other day"
+  },
+  {
+    "ops1": "Be very tall",
+    "ops2": "Be very short"
+  },
+  {
+    "ops1": "Live in a developed country but you are poor",
+    "ops2": "Live in an undeveloped country but you are rich"
+  },
+  {
+    "ops1": "Only be able to eat with a knife",
+    "ops2": "Only be able to eat with your hands"
+  },
+  {
+    "ops1": "Always need a watch to tell the time",
+    "ops2": "Always need a clock to tell the time"
+  },
+  {
+    "ops1": "Always be itchy",
+    "ops2": "Always be tired"
+  },
+  {
+    "ops1": "Share a first name with an awful person (Ex: Hitler)",
+    "ops2": "Share a birthday with a tragic event (Ex: Sept. 11)"
+  },
+  {
+    "ops1": "Be the opposite sex for a day",
+    "ops2": "Be an animal of your choosing for a day"
+  },
+  {
+    "ops1": "Never understand what people are saying for the first time",
+    "ops2": "Never be understood the first time you say something"
+  },
+  {
+    "ops1": "Be betrayed by your siblings",
+    "ops2": "Be betrayed by your parents"
+  },
+  {
+    "ops1": "Poop your pants when someone laughs",
+    "ops2": "Pee your pants when someone gets angry"
+  },
+  {
+    "ops1": "Be able to shrink whenever you want",
+    "ops2": "Be able to grow whenever you want"
+  },
+  {
+    "ops1": "Only eat expired foods",
+    "ops2": "Only drink expired beverages"
+  },
+  {
+    "ops1": "Have whatever you say become real",
+    "ops2": "Have whatever you think become real"
+  },
+  {
+    "ops1": "Clone yourself an unlimited amount of times",
+    "ops2": "Clone any object an unlimited amount of times"
+  },
+  {
+    "ops1": "Watch the movie",
+    "ops2": "Read the book"
+  },
+  {
+    "ops1": "Receive $1 for every step you've taken in your life",
+    "ops2": "Receive $1 for every blink of your eyes you've taken"
+  },
+  {
+    "ops1": "Have many short-term relationships",
+    "ops2": "Have very few long-term relationships"
+  },
+  {
+    "ops1": "Spend a night on the ocean",
+    "ops2": "Spend a night in a forest"
+  },
+  {
+    "ops1": "Travel 10 years into past but you can't return to present",
+    "ops2": "Travel 2 years into the future but you can return to present"
+  },
+  {
+    "ops1": "Be a vampire hunter",
+    "ops2": "Be a vampire"
+  },
+  {
+    "ops1": "Become any character from any game",
+    "ops2": "Become any character from any anime"
+  },
+  {
+    "ops1": "Erase all of your past bad memories",
+    "ops2": "Erase your past bad impressions in the memories of others"
+  },
+  {
+    "ops1": "Fly with a Dragon",
+    "ops2": "Swim with a Mermaid"
+  },
+  {
+    "ops1": "Have the power to specifically erase 10 of your memories",
+    "ops2": "Be able to see the memories of others by touching them"
+  },
+  {
+    "ops1": "Live happily in a kingdom in the sky",
+    "ops2": "Live happily in a kingdom in the ocean"
+  },
+  {
+    "ops1": "Ability to heal yourself and not others",
+    "ops2": "Ability to heal others and not yourself"
+  },
+  {
+    "ops1": "Have hair everywhere on you",
+    "ops2": "Have hair nowhere on you"
+  },
+  {
+    "ops1": "Make anything appear out of thin air (5 hour cooldown)",
+    "ops2": "Hypnotize anyone within seeing distance for 12 hours (30 hour cooldown)"
+  },
+  {
+    "ops1": "Ability to pause time (only once per day)",
+    "ops2": "Ability to become invisible (lasts an entire day, only once a week)"
+  },
+  {
+    "ops1": "Have infinite knowledge",
+    "ops2": "Be omnipotent"
+  },
+  {
+    "ops1": "Redo your life from the start with your current memories",
+    "ops2": "Get a completely new life with no memories"
+  },
+  {
+    "ops1": "Be stuck living forever",
+    "ops2": "Only live for 10 more years"
+  },
+  {
+    "ops1": "Be a vampire",
+    "ops2": "Be a werewolf"
+  },
+  {
+    "ops1": "Have all your fingers permanently replaced by scissors",
+    "ops2": "Have both your feet permanently replaced by butter knives"
+  },
+  {
+    "ops1": "Be any bird",
+    "ops2": "Be any object"
+  },
+  {
+    "ops1": "Get piercings everywhere possible (tongue, ears, eyebrows, bellybutton, etc)",
+    "ops2": "Get tattoos all over your body"
+  },
+  {
+    "ops1": "Drown to death in the ocean",
+    "ops2": "Burn to death in lava"
+  },
+  {
+    "ops1": "Know everything about outer space",
+    "ops2": "Know everything about Earth's oceans"
+  },
+  {
+    "ops1": "Break into a stranger's home and stay for 2 days without them knowing",
+    "ops2": "Stay outside for 6 days"
+  },
+  {
+    "ops1": "Work 9 to 5 on a job you hate",
+    "ops2": "Work 7 to 6 on a job you love"
+  },
+  {
+    "ops1": "Have the love of your life, but be broke",
+    "ops2": "Be forever alone, but rich"
+  },
+  {
+    "ops1": "Never be able to play any game again",
+    "ops2": "Never be able to watch/stream anything again (Ex: Youtube, Netflix)"
+  },
+  {
+    "ops1": "Your accused of being a criminal but your family/love-one is the criminal",
+    "ops2": "Your family/love ones is accused of being criminals but you're the criminal"
+  },
+  {
+    "ops1": "Live a lonely but saintly life",
+    "ops2": "Have lots of friends but be a slightly bad person"
+  },
+  {
+    "ops1": "Drink hot drinks in Summer",
+    "ops2": "Drink cold drinks in Winter"
+  },
+  {
+    "ops1": "Pat every animal you see",
+    "ops2": "Sing along to every song you know under any circumstances"
+  },
+  {
+    "ops1": "Be the smartest but everyone hates you",
+    "ops2": "Be the stupidest but everyone loves you"
+  },
+  {
+    "ops1": "Have 1 billion dollars",
+    "ops2": "Get 1 penny and double it every day"
+  },
+  {
+    "ops1": "Lose your sense of touch",
+    "ops2": "Lose your sense of sight"
+  },
+  {
+    "ops1": "Get a large tattoo of a person you dislike on your back",
+    "ops2": "Get a master's degree in a field you dislike"
+  },
+  {
+    "ops1": "Never worry about wealth",
+    "ops2": "Never worry about health"
+  },
+  {
+    "ops1": "Drive for at least 3 hours a day",
+    "ops2": "Play chess for at least 3 hours a day"
+  },
+  {
+    "ops1": "Have nothing in your life",
+    "ops2": "Have nobody in your life"
+  },
+  {
+    "ops1": "Be stranded in North Korea for 50 years",
+    "ops2": "Spend 50 years of jail in russia"
+  },
+  {
+    "ops1": "Be forever happy but someone else is depressed",
+    "ops2": "Be forever depressed but someone else is happy"
+  },
+  {
+    "ops1": "Wear a sweatshirt in 90 degree weather",
+    "ops2": "Wear a t-shirt in 10 degree weather"
+  },
+  {
+    "ops1": "Everything stays the way it is and you live double your destined life",
+    "ops2": "You're born into wealthy and lucky circumstances, but live half of your destined life"
+  },
+  {
+    "ops1": "Only Eat Fast Food (quick, convenient, many options)",
+    "ops2": "Only Eat Homemade Food (takes longer, cheaper in long run, cooking flexibility)"
+  },
+  {
+    "ops1": "Have your dream car but you can't use it",
+    "ops2": "Have a bad car with infinite gasoline"
+  },
+  {
+    "ops1": "Every food you eat is too salty",
+    "ops2": "Every drink you drink is too sweet"
+  },
+  {
+    "ops1": "Live in a world without internet",
+    "ops2": "Live in a world without music"
+  },
+  {
+    "ops1": "Suffer from a disease without any cure",
+    "ops2": "Suffer a wound that will never heal"
+  },
+  {
+    "ops1": "Always be aroused",
+    "ops2": "Never feel arousal at all"
+  },
+  {
+    "ops1": "Lose Wifi for a year",
+    "ops2": "Prices go up by 20% for you for a year"
+  },
+  {
+    "ops1": "You live in a fantasy world as an average person (you get to choose the world)",
+    "ops2": "You live in the real world but are an above average person (comfortably wealthy & smart)"
+  },
+  {
+    "ops1": "Have the ability to time travel to any point in the past",
+    "ops2": "Have the ability to teleport to any location instantly"
+  },
+  {
+    "ops1": "Only eat burnt food",
+    "ops2": "Always bite your tongue when you eat"
+  },
+  {
+    "ops1": "Live-stream your entire life",
+    "ops2": "Never access social media ever again"
+  },
+  {
+    "ops1": "Scream loudly while you're asleep",
+    "ops2": "Be blind and deaf for the first 30 mins after waking up"
+  },
+  {
+    "ops1": "Have 10 billion dollars but only be able to donate it",
+    "ops2": "Only make money from donations your entire life"
+  },
+  {
+    "ops1": "Never be able to feel anything emotionally again",
+    "ops2": "Never be able to feel anything physically again"
+  },
+  {
+    "ops1": "Go to jail for one year",
+    "ops2": "Receive three years of house arrest"
+  },
+  {
+    "ops1": "Never be able to eat your favourite food",
+    "ops2": "Eat only your favourite food for the rest of your life"
+  },
+  {
+    "ops1": "Never be able to go outside, but you have internet",
+    "ops2": "Be able to go outside, but have no internet"
+  },
+  {
+    "ops1": "Never be able to watch movies",
+    "ops2": "Never be able to read books"
+  },
+  {
+    "ops1": "Live with people who are obsessed with you",
+    "ops2": "Live with people who hate you (no physical violence)"
+  },
+  {
+    "ops1": "only celebrate your birthday",
+    "ops2": "only celebrate the birthdays' of others"
+  },
+  {
+    "ops1": "Drink sewer water",
+    "ops2": "Eat food from the sewer"
+  },
+  {
+    "ops1": "Receive $1 million today",
+    "ops2": "Receive $5 million in ten years (unadjusted for inflation)"
+  },
+  {
+    "ops1": "See who actually loves you",
+    "ops2": "See who hates you"
+  },
+  {
+    "ops1": "be super racist",
+    "ops2": "be super sexist"
+  },
+  {
+    "ops1": "have a lazy partner",
+    "ops2": "have a stupid partner"
+  },
+  {
+    "ops1": "spend 2 years in prison",
+    "ops2": "Spend your weekends in prison for the next 5 years"
+  },
+  {
+    "ops1": "Live alone on a secluded island",
+    "ops2": "Live in an overpopulated city"
+  },
+  {
+    "ops1": "Double your intelligence",
+    "ops2": "Double your attractiveness"
+  },
+  {
+    "ops1": "Become the King/Queen of the UK",
+    "ops2": "Become the president of the USA"
+  },
+  {
+    "ops1": "Never see an animal ever again",
+    "ops2": "Have a 70% chance of getting attacked by any animal you see"
+  },
+  {
+    "ops1": "Have no parents at all (assuming you can still exist)",
+    "ops2": "Have unsupportive parents"
+  },
+  {
+    "ops1": "Always fall in love too easily",
+    "ops2": "Always have a very hard time falling in love"
+  },
+  {
+    "ops1": "Be able to walk on water without drowning",
+    "ops2": "Be able to touch fire without burning"
+  },
+  {
+    "ops1": "Have all your family hate you",
+    "ops2": "Have everyone but your family hate you"
+  },
+  {
+    "ops1": "Go Skydiving",
+    "ops2": "Go Deep Sea Diving"
+  },
+  {
+    "ops1": "Always feel happy, but act angry",
+    "ops2": "Always feel angry, but act happy"
+  },
+  {
+    "ops1": "Lose all your memories but keep skills",
+    "ops2": "Lose all your skills but keep memories"
+  },
+  {
+    "ops1": "Have your voice delayed by 5 seconds",
+    "ops2": "Have your vision delayed by 5 seconds"
+  },
+  {
+    "ops1": "Never need to sleep",
+    "ops2": "Never need to eat"
+  },
+  {
+    "ops1": "Only be able to play your favorite game",
+    "ops2": "Be able to play any game except for your favorite game"
+  },
+  {
+    "ops1": "Have Strong Legs",
+    "ops2": "Have Strong Arms"
+  },
+  {
+    "ops1": "Have very buck teeth",
+    "ops2": "Have very crooked teeth"
+  },
+  {
+    "ops1": "Proficient in a foreign language",
+    "ops2": "Proficient in mathematics"
+  },
+  {
+    "ops1": "Fail every class in school, but everyone is proud/happy for you",
+    "ops2": "Pass every class in school, but everyone hates/envy you"
+  },
+  {
+    "ops1": "Have a set-out path in life",
+    "ops2": "Have complete unknowns"
+  },
+  {
+    "ops1": "Have a bad body odor",
+    "ops2": "Have bad breath"
+  },
+  {
+    "ops1": "Lose the ability to talk",
+    "ops2": "Lose the ability to walk"
+  },
+  {
+    "ops1": "Stay outside all your life",
+    "ops2": "Stay inside all your life"
+  },
+  {
+    "ops1": "Have to kill five strangers",
+    "ops2": "Have to kill one person you know"
+  },
+  {
+    "ops1": "Always have to travel by train",
+    "ops2": "Always have to travel by bus"
+  },
+  {
+    "ops1": "Hike a large mountain",
+    "ops2": "Run a marathon"
+  },
+  {
+    "ops1": "Be stuck reliving the same good day over and over again",
+    "ops2": "Have every bad day of your life repeated twice"
+  },
+  {
+    "ops1": "Be stuck outside all your life",
+    "ops2": "Be stuck inside all your life"
+  },
+  {
+    "ops1": "Be attractive but very annoying",
+    "ops2": "Be unattractive but very charismatic"
+  },
+  {
+    "ops1": "You can fly but only in the cardinal directions (cannot go up or down) 15ft above ground",
+    "ops2": "You can teleport but only within a 1.6km (1mi) radius"
+  },
+  {
+    "ops1": "Accidently drop a baby",
+    "ops2": "Accidently drop three puppies"
+  },
+  {
+    "ops1": "Never have homework in school",
+    "ops2": "Never have an exam in school"
+  },
+  {
+    "ops1": "Be an amazing pianist",
+    "ops2": "Be an amazing drummer"
+  },
+  {
+    "ops1": "Have an unlimited army of gnomes for eternity",
+    "ops2": "Be a demigod"
+  },
+  {
+    "ops1": "Have a clone of yourself",
+    "ops2": "Be able to control someone else"
+  },
+  {
+    "ops1": "Have to document a plant's growth over ten years",
+    "ops2": "Have to document a child's growth over ten years"
+  },
+  {
+    "ops1": "Only be able to sing",
+    "ops2": "Only be able to dance"
+  },
+  {
+    "ops1": "Act on broadway",
+    "ops2": "Act in Movies/T.V."
+  },
+  {
+    "ops1": "Live underground",
+    "ops2": "Inhabit an isolated mountaintop"
+  },
+  {
+    "ops1": "Have a spouse but no personal friends",
+    "ops2": "Have no spouse but have friends"
+  },
+  {
+    "ops1": "Have 10 wishes",
+    "ops2": "Be a genie that grants wishes"
+  },
+  {
+    "ops1": "Have to sell your pet(s) but collect the revenue",
+    "ops2": "Have to give your car away for free"
+  },
+  {
+    "ops1": "Lose your mobile phone",
+    "ops2": "Lose your PC"
+  },
+  {
+    "ops1": "Teleport, but every time you do you slowly lose your eyesight",
+    "ops2": "Have super speed, but have to eat 25k calories a day to maintain it"
+  },
+  {
+    "ops1": "Always over spice your food",
+    "ops2": "Always have your food taste bland"
+  },
+  {
+    "ops1": "Only Eat Fruits",
+    "ops2": "Only Eat Vegetables"
+  },
+  {
+    "ops1": "Have Your Back Cracked By A Chiropractor",
+    "ops2": "Have Your Mind Explored by a Psychic to uncover your deepest thoughts and emotions"
+  },
+  {
+    "ops1": "Always be tired but not sick",
+    "ops2": "Always be sick but not tired"
+  },
+  {
+    "ops1": "Have four hands",
+    "ops2": "Have four feet"
+  },
+  {
+    "ops1": "ALWAYS SUMMER",
+    "ops2": "ALWAYS WINTER"
+  },
+  {
+    "ops1": "Get stuck with a needle each time you lie",
+    "ops2": "Get skinnier each time you tell the truth"
+  },
+  {
+    "ops1": "Save your dad from falling off a cliff",
+    "ops2": "Save your mom from falling off a cliff"
+  },
+  {
+    "ops1": "Lick the inside of a stranger's ear",
+    "ops2": "Lick a stranger's armpit"
+  },
+  {
+    "ops1": "Instantly know when someone is lying to you",
+    "ops2": "Be able to lie without ever being caught"
+  },
+  {
+    "ops1": "Be short but buff",
+    "ops2": "Be tall but skinny"
+  },
+  {
+    "ops1": "Have 100 duck-sized elephants",
+    "ops2": "Have one elephant-sized duck"
+  },
+  {
+    "ops1": "Only be able to play Fortnite for the rest of you live",
+    "ops2": "Only be able to play Minecraft for the rest of you life"
+  },
+  {
+    "ops1": "Be unable to speak at all (mute)",
+    "ops2": "Have to say every thought that comes into your mind out loud"
+  },
+  {
+    "ops1": "Never be able to have kids (no adoption)",
+    "ops2": "Have three babies delivered to your doorstep right now"
+  },
+  {
+    "ops1": "Die in 10 years but happy and with people",
+    "ops2": "Die in 50 years alone and unhappy"
+  },
+  {
+    "ops1": "Drink orange juice for the rest of your life",
+    "ops2": "Drink apple juice for the rest of your life"
+  },
+  {
+    "ops1": "Have a gaming laptop",
+    "ops2": "Have a gaming PC"
+  },
+  {
+    "ops1": "Only be able to read",
+    "ops2": "Only be able to write"
+  },
+  {
+    "ops1": "Have your spouse picked for you",
+    "ops2": "Have your permanent career picked for you"
+  },
+  {
+    "ops1": "Be a fool but optimistic",
+    "ops2": "Be smart but pessimistic"
+  },
+  {
+    "ops1": "Improve your physical health by 50%",
+    "ops2": "Improve your mental health by 50%"
+  },
+  {
+    "ops1": "Listen to music from the 80s and 90s",
+    "ops2": "Listen to music from 2010s and 2020s"
+  },
+  {
+    "ops1": "Be able to drink anything but have a 50% chance of choking each time",
+    "ops2": "Only be able to drink water but only have a 1% chance of choking"
+  },
+  {
+    "ops1": "Be very obese",
+    "ops2": "Be very skinny"
+  },
+  {
+    "ops1": "Have tongues for fingers",
+    "ops2": "Have a finger as a tongue"
+  },
+  {
+    "ops1": "See the future",
+    "ops2": "Change the past"
+  },
+  {
+    "ops1": "Only be able to play one game from each game studio",
+    "ops2": "Only be able to play the games made by one game studio"
+  },
+  {
+    "ops1": "Never be able to draw",
+    "ops2": "Never be able to write"
+  },
+  {
+    "ops1": "Have no hair anywhere",
+    "ops2": "Have never ending growing hair"
+  },
+  {
+    "ops1": "Play a small part in a good movie",
+    "ops2": "Play the main part in a terrible movie"
+  },
+  {
+    "ops1": "Never be able to say \"No\"",
+    "ops2": "Never be able to say \"Yes\""
+  },
+  {
+    "ops1": "Only eat salty food",
+    "ops2": "Only eat sugary food"
+  },
+  {
+    "ops1": "Have the memory of a goldfish",
+    "ops2": "Have the neck of a giraffe"
+  },
+  {
+    "ops1": "Have fingers for toes",
+    "ops2": "Have toes for fingers"
+  },
+  {
+    "ops1": "Live in the town you were born in forever",
+    "ops2": "Never see the town you were born in again"
+  },
+  {
+    "ops1": "Re-live 5 years of your life",
+    "ops2": "Erase 5 years of your life"
+  },
+  {
+    "ops1": "Travel by yourself",
+    "ops2": "Travel with family"
+  },
+  {
+    "ops1": "Have no fingernails",
+    "ops2": "Have no eyelashes"
+  },
+  {
+    "ops1": "Have to poop every 35 minutes",
+    "ops2": "Have to pee every 35 minutes"
+  },
+  {
+    "ops1": "Have everyone judge/think about everything you do",
+    "ops2": "Have nobody care about you at all"
+  },
+  {
+    "ops1": "Everyone fears you",
+    "ops2": "Everyone loves you"
+  },
+  {
+    "ops1": "Spend your entire summer at the beach",
+    "ops2": "Spend your entire summer in the mountains"
+  },
+  {
+    "ops1": "Tell your best friend all your secrets",
+    "ops2": "Tell your parents all your secrets"
+  },
+  {
+    "ops1": "Always consciously breathe",
+    "ops2": "Always consciously blink"
+  },
+  {
+    "ops1": "Fart in public",
+    "ops2": "Burp in public"
+  },
+  {
+    "ops1": "Leave your family",
+    "ops2": "Leave your friends"
+  },
+  {
+    "ops1": "Have a fast death",
+    "ops2": "Have a slow death"
+  },
+  {
+    "ops1": "Only be able to operate during the day",
+    "ops2": "Only be able to operate during the night"
+  },
+  {
+    "ops1": "Have an extra finger",
+    "ops2": "Have an extra toe"
+  },
+  {
+    "ops1": "Be a sport champion",
+    "ops2": "Be a memory champion"
+  },
+  {
+    "ops1": "Be Married Forever",
+    "ops2": "Be Single Forever"
+  },
+  {
+    "ops1": "Have to kiss a random family member",
+    "ops2": "Have to kiss a random stranger"
+  },
+  {
+    "ops1": "Become a sentient toilet",
+    "ops2": "Become a sentient punching bag"
+  },
+  {
+    "ops1": "Only be able to SUBSCRIBE",
+    "ops2": "Only be able to LIKE THE VIDEO"
+  },
+  {
+    "ops1": "Have your home infested with rats",
+    "ops2": "Have your home infested with snakes"
+  },
+  {
+    "ops1": "Get $100M right now",
+    "ops2": "Receive three wishes from a Genie right now"
+  },
+  {
+    "ops1": "Lose your arms",
+    "ops2": "Lose your legs"
+  },
+  {
+    "ops1": "Live in a school",
+    "ops2": "Live in a kids park"
+  },
+  {
+    "ops1": "No electricity",
+    "ops2": "No internet"
+  },
+  {
+    "ops1": "Be Cruel in a Kind World",
+    "ops2": "Be Kind in a Cruel World"
+  },
+  {
+    "ops1": "Shatter the minds of the people that you speak to",
+    "ops2": "Severely beat up people that you touch"
+  },
+  {
+    "ops1": "Fly first class for every commercial flight",
+    "ops2": "Private jet for every flight, but only be able to bring 50% of luggage"
+  },
+  {
+    "ops1": "Cure cancer",
+    "ops2": "Cure world hunger"
+  },
+  {
+    "ops1": "Have the IQ of everyone in the world combined",
+    "ops2": "Have the wealth of everyone in the world combined"
+  },
+  {
+    "ops1": "Own all the weapons in the world but only master one",
+    "ops2": "Master all the weapons in the world but only use one"
+  },
+  {
+    "ops1": "Always be clueless",
+    "ops2": "Always be paranoid"
+  },
+  {
+    "ops1": "Have one ear but three eyes",
+    "ops2": "Have three ears but one eye"
+  },
+  {
+    "ops1": "Control time",
+    "ops2": "Control the weather"
+  },
+  {
+    "ops1": "Be a doctor",
+    "ops2": "Be a lawyer"
+  },
+  {
+    "ops1": "Have you entire photo gallery shared with your family",
+    "ops2": "Never use a smartphone again"
+  },
+  {
+    "ops1": "Have everyone in the world be slightly smarter (In terms of IQ).",
+    "ops2": "Have everyone in the world be moderately stronger (In terms of muscle mass)."
+  },
+  {
+    "ops1": "Become a famous dancer",
+    "ops2": "Become a famous singer"
+  },
+  {
+    "ops1": "Be able to explore the Universe",
+    "ops2": "Be able to explore the unknows of the Earth"
+  },
+  {
+    "ops1": "Never have to wait for anything",
+    "ops2": "Never have to work for anything"
+  },
+  {
+    "ops1": "Use eye drops made of vinegar",
+    "ops2": "Use toilet paper, made from sandpaper"
+  },
+  {
+    "ops1": "Always travel for free, but be unable to choose the destination",
+    "ops2": "Always pay to travel, but go wherever you desire"
+  },
+  {
+    "ops1": "Have your mind serve as an iPod so you can listen to music anytime",
+    "ops2": "Be able to watch your dreams on television"
+  },
+  {
+    "ops1": "Be able to fly at walking speed",
+    "ops2": "Be able to run at 100 mph (160km/h)"
+  },
+  {
+    "ops1": "Have the ability to become invisible",
+    "ops2": "Have the ability to read minds"
+  },
+  {
+    "ops1": "Have a pause button for your life",
+    "ops2": "Have a rewind button for your life"
+  },
+  {
+    "ops1": "Spend a year living in a submarine",
+    "ops2": "Spend a year living in a space station"
+  },
+  {
+    "ops1": "Eat only pizza for a year",
+    "ops2": "Eat only sushi for a year"
+  },
+  {
+    "ops1": "Live without the internet",
+    "ops2": "Live without air conditioning and heating"
+  },
+  {
+    "ops1": "Live without music",
+    "ops2": "Live without television"
+  },
+  {
+    "ops1": "Taste anything you touch",
+    "ops2": "Be unable to taste anything"
+  },
+  {
+    "ops1": "Be famous when you are alive and forgotten when you die",
+    "ops2": "Be unknown when you are alive but famous after you die"
+  },
+  {
+    "ops1": "Be a prodigy at a young age but burn out later",
+    "ops2": "Achieve success late in life but last longer"
+  },
+  {
+    "ops1": "Have a lifetime of free international first-class plane tickets",
+    "ops2": "Have a lifetime of free five-star hotel accommodations"
+  },
+  {
+    "ops1": "Have super sensitive taste",
+    "ops2": "Have super sensitive hearing"
+  },
+  {
+    "ops1": "Have to walk on all fours wherever you go",
+    "ops2": "Have to hop on one foot wherever you go"
+  },
+  {
+    "ops1": "Never lose your phone again (no trackers)",
+    "ops2": "Never lose your keys again (no trackers)"
+  },
+  {
+    "ops1": "Be able to change the smell of anything at will",
+    "ops2": "Be able to change the taste of any food at will"
+  },
+  {
+    "ops1": "Become ten years younger",
+    "ops2": "Become ten years older"
+  },
+  {
+    "ops1": "Win a trip to the moon",
+    "ops2": "Win a trip to every country on Earth"
+  },
+  {
+    "ops1": "Have a car that can drive underwater",
+    "ops2": "Have a car that can fly"
+  },
+  {
+    "ops1": "Write a best-selling novel",
+    "ops2": "Create a popular music album"
+  },
+  {
+    "ops1": "Be a character in your favorite video game",
+    "ops2": "Be a character in your favorite movie"
+  },
+  {
+    "ops1": "Live in a house with no windows",
+    "ops2": "Live in an all-glass house"
+  },
+  {
+    "ops1": "Win an Olympic medal",
+    "ops2": "Win an Academy Award"
+  },
+  {
+    "ops1": "Be a famous director",
+    "ops2": "Be a famous actor"
+  },
+  {
+    "ops1": "Have a permanent clown nose",
+    "ops2": "Have permanent elf ears"
+  },
+  {
+    "ops1": "Always have the best hair",
+    "ops2": "Always have the best outfit"
+  },
+  {
+    "ops1": "Never have to work again",
+    "ops2": "Never have to clean again"
+  },
+  {
+    "ops1": "Win the lottery but lose all your friends",
+    "ops2": "Remain broke but keep your friends"
+  },
+  {
+    "ops1": "Return every nonessential item you've ever bought",
+    "ops2": "Never be able to buy anything nonessential again"
+  },
+  {
+    "ops1": "Have been born 10 years earlier",
+    "ops2": "Have been born 10 years later"
+  },
+  {
+    "ops1": "Be able to write/type extremely fast",
+    "ops2": "Be able to read extremely fast"
+  },
+  {
+    "ops1": "Be known for your intelligence",
+    "ops2": "Be known for your beauty"
+  },
+  {
+    "ops1": "Live life as a silent film",
+    "ops2": "Live life as a musical"
+  },
+  {
+    "ops1": "Have to perform surgery with no training on a loved one",
+    "ops2": "Have to fly an empty plane with no training (might crash and harm others)"
+  },
+  {
+    "ops1": "Live one life that lasts 1,000 years",
+    "ops2": "Live 10 lives that last 100 years each"
+  },
+  {
+    "ops1": "Be hunted by a cult with modern weapons",
+    "ops2": "Be hunted by a pack of lions"
+  },
+  {
+    "ops1": "Be the funniest person alive",
+    "ops2": "Be the most attractive person alive"
+  },
+  {
+    "ops1": "Be stranded in the jungle",
+    "ops2": "Be stranded in the desert"
+  },
+  {
+    "ops1": "Lose your sense of smell",
+    "ops2": "Lose your sense of taste"
+  },
+  {
+    "ops1": "Travel with a circus",
+    "ops2": "Travel with a band"
+  },
+  {
+    "ops1": "Own your dream house",
+    "ops2": "Own your dream car"
+  },
+  {
+    "ops1": "Have all your shirts be 2 sizes too big",
+    "ops2": "Have all your pants be 2 sizes too small"
+  },
+  {
+    "ops1": "Live the same day over and over again for one year",
+    "ops2": "Lose a year of your life"
+  },
+  {
+    "ops1": "Be a famous inventor",
+    "ops2": "Be a famous writer"
+  },
+  {
+    "ops1": "Be half your weight",
+    "ops2": "Double your weight"
+  },
+  {
+    "ops1": "Give up your favorite food forever",
+    "ops2": "Give up your favorite drink forever"
+  },
+  {
+    "ops1": "Have a head the size of a tennis ball",
+    "ops2": "Have a head the size of a watermelon"
+  },
+  {
+    "ops1": "Never be able to go out during the day",
+    "ops2": "Never be able to go out at night"
+  },
+  {
+    "ops1": "Sneeze every time you greet someone",
+    "ops2": "Burp every time you dismiss someone (e.g. say bye)"
+  },
+  {
+    "ops1": "Own a private island",
+    "ops2": "Own a private jet"
+  },
+  {
+    "ops1": "Be a genius that nobody believes",
+    "ops2": "Be an idiot that everyone believes"
+  },
+  {
+    "ops1": "Become a stranger's puppet for a day",
+    "ops2": "Be locked in a small room for a day with only water"
+  },
+  {
+    "ops1": "Wrestle an alligator",
+    "ops2": "Wrestle a bear"
+  },
+  {
+    "ops1": "Stand all day",
+    "ops2": "Sit all day"
+  },
+  {
+    "ops1": "Win $50,000",
+    "ops2": "Let your best friend win $500,000"
+  },
+  {
+    "ops1": "Live during the Renaissance",
+    "ops2": "Live during the Industrial Revolution"
+  },
+  {
+    "ops1": "Have all your dreams granted but have a 10% chance of instant death",
+    "ops2": "Be forever cursed with very mild inconveniences"
+  },
+  {
+    "ops1": "Be forced to dance every time you hear music",
+    "ops2": "Be forced to sing along to any song you hear"
+  },
+  {
+    "ops1": "Have the most epic entrance whenever you arrive",
+    "ops2": "Have the most epic goodbye whenever you leave"
+  },
+  {
+    "ops1": "Sneeze uncontrollably for 15 minutes every day at a random time",
+    "ops2": "Suddenly become completely naked for 5 minutes once a month at a random time"
+  },
+  {
+    "ops1": "Face your biggest fear once",
+    "ops2": "Have constant small fears daily"
+  },
+  {
+    "ops1": "Move to a new city or town every week",
+    "ops2": "Never be able to leave the city or town you were born in"
+  },
+  {
+    "ops1": "Never have to do laundry",
+    "ops2": "Never have to do dishes"
+  },
+  {
+    "ops1": "Make your browsing history public (including incognito and deleted)",
+    "ops2": "Never use the internet again"
+  },
+  {
+    "ops1": "Grow a pumpkin-sized nose when you lie",
+    "ops2": "Grow donkey ears when you're jealous"
+  },
+  {
+    "ops1": "Have the ability to transform into anything/anyone",
+    "ops2": "Have the ability to gain any skill instantly"
+  },
+  {
+    "ops1": "Never age physically",
+    "ops2": "Never age mentally"
+  },
+  {
+    "ops1": "Never have to sleep again",
+    "ops2": "Never have to eat again"
+  },
+  {
+    "ops1": "Be a master of calligraphy",
+    "ops2": "Be a master of origami"
+  },
+  {
+    "ops1": "Face a zombie apocalypse",
+    "ops2": "Face a robot apocalypse"
+  },
+  {
+    "ops1": "Be forced to high five everyone you make eye contact with",
+    "ops2": "Salute every vehicle you see"
+  },
+  {
+    "ops1": "Choose your phobias",
+    "ops2": "Have your phobias assigned randomly"
+  },
+  {
+    "ops1": "Live in an amusement park",
+    "ops2": "Live in a zoo"
+  },
+  {
+    "ops1": "Be loved by all",
+    "ops2": "Be respected by all"
+  },
+  {
+    "ops1": "Lose the ability to use GPS",
+    "ops2": "Lose the ability to use a credit card"
+  },
+  {
+    "ops1": "Have incredibly strong legs and weak arms",
+    "ops2": "Have incredibly strong arms and weak legs"
+  },
+  {
+    "ops1": "Shave your eyebrows once a month",
+    "ops2": "Lose one toe of your choice"
+  }
+]

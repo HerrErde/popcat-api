@@ -1,0 +1,38 @@
+services:
+  popcat-api:
+    container_name: popcat-api
+    image: popcat-api:develop
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: always
+    ports:
+      - 6090:6090
+    depends_on:
+      - redis
+      
+  redis:
+    image: redis:alpine
+    restart: always
+    ports:
+      - 6379:6379
+    #command: redis-server --save 60 1 --loglevel warning
+    volumes:
+      - redis-data:/data
+
+  playwright:
+    image: mcr.microsoft.com/playwright:latest
+    init: true
+    stdin_open: true
+    tty: true
+    user: pwuser
+    working_dir: /home/pwuser
+    command: /bin/sh -c "npx -y playwright@latest run-server --port 3000 --host 0.0.0.0"
+    environment:
+      DEBUG: pw:* # Enable Playwright debugging logs
+    ports:
+      - 3000:3000
+
+volumes:
+  redis-data:
+    driver: local

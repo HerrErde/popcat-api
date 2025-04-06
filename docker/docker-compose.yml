@@ -1,0 +1,21 @@
+services:
+  popcat-api:
+    container_name: popcat-api
+    image: ghcr.io/herrerde/popcat-api:latest
+    restart: always
+    ports:
+      - 6090:6090
+    depends_on:
+      - redis
+
+  redis:
+    image: redis:alpine
+    restart: always
+    ports:
+      - 6379:6379
+    volumes:
+      - redis-data:/data
+
+volumes:
+  redia-data:
+    driver: local

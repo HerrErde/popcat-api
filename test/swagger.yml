@@ -1,0 +1,2274 @@
+[
+  {
+    swaggerDoc:
+      {
+        swagger: '2.0',
+        info:
+          {
+            version: '1.0.0',
+            title: 'Pop Cat API Endpoints',
+            description: 'List of all available endpoints in the Pop Cat API'
+          },
+        host: 'api.popcat.xyz',
+        basePath: '/',
+        schemes: ['https'],
+        paths:
+          {
+            '/welcomecard':
+              {
+                get:
+                  {
+                    summary: 'Customizable Discord Welcome Cards',
+                    description: 'Endpoint to get customizable Discord Welcome Cards',
+                    parameters: [],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema:
+                              { $ref: '#/definitions/WelcomeCardResponse' }
+                          }
+                      }
+                  }
+              },
+            '/color/{hexCode}':
+              {
+                get:
+                  {
+                    summary: 'Get info on a hex color',
+                    description: 'Endpoint to get information about a hex color',
+                    parameters:
+                      [
+                        {
+                          name: 'hexCode',
+                          in: 'path',
+                          description: 'Hex code of the color',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/ColorResponse' }
+                          }
+                      }
+                  }
+              },
+            '/lyrics':
+              {
+                get:
+                  {
+                    summary: 'Get lyrics and info on a song',
+                    description: 'Endpoint to get lyrics and some more information about a song',
+                    parameters:
+                      [
+                        {
+                          name: 'song',
+                          in: 'query',
+                          description: 'Name of the song',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/LyricsResponse' }
+                          }
+                      }
+                  }
+              },
+            '/periodic-table':
+              {
+                get:
+                  {
+                    summary: 'Get info on a chemical element',
+                    description: 'Endpoint to get information about a chemical element using its name, symbol, or number',
+                    parameters:
+                      [
+                        {
+                          name: 'element',
+                          in: 'query',
+                          description: 'Name, symbol, or number of the chemical element',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema:
+                              { $ref: '#/definitions/PeriodicTableResponse' }
+                          }
+                      }
+                  }
+              },
+            '/periodic-table/random':
+              {
+                get:
+                  {
+                    summary: 'Get a random element from the periodic table',
+                    description: 'Endpoint to get a random element from the periodic table',
+                    parameters: [],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema:
+                              {
+                                $ref: '#/definitions/PeriodicTableRandomResponse'
+                              }
+                          }
+                      }
+                  }
+              },
+            '/hue-rotate':
+              {
+                get:
+                  {
+                    summary: 'Rotate the hue of an image',
+                    description: 'Endpoint to rotate the hue of an image',
+                    parameters:
+                      [
+                        {
+                          name: 'img',
+                          in: 'query',
+                          description: 'URL of the image',
+                          required: true,
+                          type: 'string'
+                        },
+                        {
+                          name: 'deg',
+                          in: 'query',
+                          description: 'Rotation degree',
+                          required: true,
+                          type: 'integer'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/HueRotateResponse' }
+                          }
+                      }
+                  }
+              },
+            '/nokia':
+              {
+                get:
+                  {
+                    summary: 'Add your image on a Nokia screen',
+                    description: 'Endpoint to add your image on a Nokia screen',
+                    parameters:
+                      [
+                        {
+                          name: 'image',
+                          in: 'query',
+                          description: 'URL of the image',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/NokiaResponse' }
+                          }
+                      }
+                  }
+              },
+            '/pickuplines':
+              {
+                get:
+                  {
+                    summary: 'Get some pickup lines',
+                    description: 'Endpoint to get some pickup lines',
+                    parameters: [],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema:
+                              { $ref: '#/definitions/PickupLinesResponse' }
+                          }
+                      }
+                  }
+              },
+            '/imdb':
+              {
+                get:
+                  {
+                    summary: 'Get information on movies',
+                    description: 'Endpoint to get tons of information on movies',
+                    parameters:
+                      [
+                        {
+                          name: 'q',
+                          in: 'query',
+                          description: 'Movie title or query',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/IMDBResponse' }
+                          }
+                      }
+                  }
+              },
+            '/jail':
+              {
+                get:
+                  {
+                    summary: 'Jail overlay on image',
+                    description: 'Endpoint to add a jail overlay on an image',
+                    parameters:
+                      [
+                        {
+                          name: 'image',
+                          in: 'query',
+                          description: 'URL of the image',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/JailResponse' }
+                          }
+                      }
+                  }
+              },
+            '/unforgivable':
+              {
+                get:
+                  {
+                    summary: 'Some sins are unforgivable',
+                    description: 'Endpoint to create a meme about some sins being unforgivable',
+                    parameters:
+                      [
+                        {
+                          name: 'text',
+                          in: 'query',
+                          description: 'Text for the meme',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema:
+                              { $ref: '#/definitions/UnforgivableResponse' }
+                          }
+                      }
+                  }
+              },
+            '/screenshot':
+              {
+                get:
+                  {
+                    summary: 'Screenshot a website',
+                    description: 'Endpoint to take a screenshot of a website',
+                    parameters:
+                      [
+                        {
+                          name: 'url',
+                          in: 'query',
+                          description: 'URL of the website',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/ScreenshotResponse' }
+                          }
+                      }
+                  }
+              },
+            '/randomcolor':
+              {
+                get:
+                  {
+                    summary: 'Get a random hex color with an image and name',
+                    description: 'Endpoint to get a random hex color with an image and name',
+                    parameters: [],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema:
+                              { $ref: '#/definitions/RandomColorResponse' }
+                          }
+                      }
+                  }
+              },
+            '/steam':
+              {
+                get:
+                  {
+                    summary: 'Get info on an application on Steam',
+                    description: 'Endpoint to get information about an application on Steam',
+                    parameters:
+                      [
+                        {
+                          name: 'q',
+                          in: 'query',
+                          description: 'Application title or query',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/SteamResponse' }
+                          }
+                      }
+                  }
+              },
+            '/sadcat':
+              {
+                get:
+                  {
+                    summary: 'Make a Sad Cat Meme',
+                    description: 'Endpoint to create a Sad Cat meme',
+                    parameters:
+                      [
+                        {
+                          name: 'text',
+                          in: 'query',
+                          description: 'Text for the meme',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/SadCatResponse' }
+                          }
+                      }
+                  }
+              },
+            '/oogway':
+              {
+                get:
+                  {
+                    summary: "Create an 'Oogway Quote' meme",
+                    description: "Endpoint to create an 'Oogway Quote' meme",
+                    parameters:
+                      [
+                        {
+                          name: 'text',
+                          in: 'query',
+                          description: 'Text for the meme',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/OogwayResponse' }
+                          }
+                      }
+                  }
+              },
+            '/communism':
+              {
+                get:
+                  {
+                    summary: 'Create a communist overlay',
+                    description: 'Endpoint to create a communist overlay on an image',
+                    parameters:
+                      [
+                        {
+                          name: 'image',
+                          in: 'query',
+                          description: 'URL of the image',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/CommunismResponse' }
+                          }
+                      }
+                  }
+              },
+            '/car':
+              {
+                get:
+                  {
+                    summary: 'Get car pictures',
+                    description: 'Endpoint to get pictures of cars',
+                    parameters: [],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/CarResponse' }
+                          }
+                      }
+                  }
+              },
+            '/chatbot':
+              {
+                get:
+                  {
+                    summary: 'A free custom chatbot API',
+                    description: 'Endpoint to use the free custom chatbot API',
+                    parameters:
+                      [
+                        {
+                          name: 'msg',
+                          in: 'query',
+                          description: 'User message',
+                          required: true,
+                          type: 'string'
+                        },
+                        {
+                          name: 'owner',
+                          in: 'query',
+                          description: 'Owner name',
+                          required: true,
+                          type: 'string'
+                        },
+                        {
+                          name: 'botname',
+                          in: 'query',
+                          description: 'Bot name',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/ChatbotResponse' }
+                          }
+                      }
+                  }
+              },
+            '/pooh':
+              {
+                get:
+                  {
+                    summary: 'Create a meme of a pooh as normal and with a tuxedo',
+                    description: 'Endpoint to create a meme of a pooh as normal and with a tuxedo',
+                    parameters:
+                      [
+                        {
+                          name: 'text1',
+                          in: 'query',
+                          description: 'Text for the normal pooh',
+                          required: true,
+                          type: 'string'
+                        },
+                        {
+                          name: 'text2',
+                          in: 'query',
+                          description: 'Text for the pooh with a tuxedo',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/PoohResponse' }
+                          }
+                      }
+                  }
+              },
+            '/showerthoughts':
+              {
+                get:
+                  {
+                    summary: 'Get random Shower Thoughts',
+                    description: 'Endpoint to get random Shower Thoughts',
+                    parameters: [],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema:
+                              { $ref: '#/definitions/ShowerThoughtsResponse' }
+                          }
+                      }
+                  }
+              },
+            '/quote':
+              {
+                get:
+                  {
+                    summary: 'Get random Quotes',
+                    description: 'Endpoint to get random Quotes',
+                    parameters: [],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/QuoteResponse' }
+                          }
+                      }
+                  }
+              },
+            '/wanted':
+              {
+                get:
+                  {
+                    summary: 'Create a fake wanted poster with your image',
+                    description: 'Endpoint to create a fake wanted poster with your image',
+                    parameters:
+                      [
+                        {
+                          name: 'image',
+                          in: 'query',
+                          description: 'URL of the image',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/WantedResponse' }
+                          }
+                      }
+                  }
+              },
+            '/subreddit/{subreddit}':
+              {
+                get:
+                  {
+                    summary: 'Get tons of info on a subreddit',
+                    description: 'Endpoint to get tons of information about a subreddit',
+                    parameters:
+                      [
+                        {
+                          name: 'subreddit',
+                          in: 'path',
+                          description: 'Name of the subreddit',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/SubredditResponse' }
+                          }
+                      }
+                  }
+              },
+            '/github/{username}':
+              {
+                get:
+                  {
+                    summary: 'Get info on a GitHub user',
+                    description: 'Endpoint to get information about a GitHub user by their username',
+                    parameters:
+                      [
+                        {
+                          name: 'username',
+                          in: 'path',
+                          description: 'GitHub username',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/GithubResponse' }
+                          }
+                      }
+                  }
+              },
+            '/weather':
+              {
+                get:
+                  {
+                    summary: 'Get weather info and forecast',
+                    description: 'Endpoint to get weather information and forecast for a place',
+                    parameters:
+                      [
+                        {
+                          name: 'q',
+                          in: 'query',
+                          description: 'Place name or query',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/WeatherResponse' }
+                          }
+                      }
+                  }
+              },
+            '/whowouldwin':
+              {
+                get:
+                  {
+                    summary: 'Make a WhoWouldWin meme',
+                    description: 'Endpoint to create a WhoWouldWin meme',
+                    parameters:
+                      [
+                        {
+                          name: 'image1',
+                          in: 'query',
+                          description: 'URL of the first image',
+                          required: true,
+                          type: 'string'
+                        },
+                        {
+                          name: 'image2',
+                          in: 'query',
+                          description: 'URL of the second image',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema:
+                              { $ref: '#/definitions/WhoWouldWinResponse' }
+                          }
+                      }
+                  }
+              },
+            '/gun':
+              {
+                get:
+                  {
+                    summary: 'Get a perfect Gun overlay on your image',
+                    description: 'Endpoint to add a perfect Gun overlay on your image',
+                    parameters:
+                      [
+                        {
+                          name: 'image',
+                          in: 'query',
+                          description: 'URL of the image',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/GunResponse' }
+                          }
+                      }
+                  }
+              },
+            '/lulcat':
+              {
+                get:
+                  {
+                    summary: 'Translate your text into funny Lul Cat Language',
+                    description: 'Endpoint to translate your text into funny Lul Cat Language',
+                    parameters:
+                      [
+                        {
+                          name: 'text',
+                          in: 'query',
+                          description: 'Text to translate',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/LulCatResponse' }
+                          }
+                      }
+                  }
+              },
+            '/opinion':
+              {
+                get:
+                  {
+                    summary: 'Make an opinion meme',
+                    description: 'Endpoint to create an opinion meme',
+                    parameters:
+                      [
+                        {
+                          name: 'image',
+                          in: 'query',
+                          description: 'URL of the image',
+                          required: true,
+                          type: 'string'
+                        },
+                        {
+                          name: 'text',
+                          in: 'query',
+                          description: 'Text for the meme',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/OpinionResponse' }
+                          }
+                      }
+                  }
+              },
+            '/drake':
+              {
+                get:
+                  {
+                    summary: 'Endpoint for making a drake meme',
+                    description: 'Endpoint to create a drake meme',
+                    parameters:
+                      [
+                        {
+                          name: 'text1',
+                          in: 'query',
+                          description: 'First line of text',
+                          required: true,
+                          type: 'string'
+                        },
+                        {
+                          name: 'text2',
+                          in: 'query',
+                          description: 'Second line of text',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/DrakeResponse' }
+                          }
+                      }
+                  }
+              },
+            '/npm':
+              {
+                get:
+                  {
+                    summary: 'Get info on an NPM package',
+                    description: 'Endpoint to get information about an NPM package',
+                    parameters:
+                      [
+                        {
+                          name: 'q',
+                          in: 'query',
+                          description: 'NPM package name or query',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/NPMResponse' }
+                          }
+                      }
+                  }
+              },
+            '/fact':
+              {
+                get:
+                  {
+                    summary: 'Random Facts',
+                    description: 'Endpoint to get random facts',
+                    parameters: [],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/FactResponse' }
+                          }
+                      }
+                  }
+              },
+            '/ship':
+              {
+                get:
+                  {
+                    summary: "Make a lovely combination of 2 people's avatars",
+                    description: "Endpoint to make a lovely combination of 2 people's avatars",
+                    parameters:
+                      [
+                        {
+                          name: 'user1',
+                          in: 'query',
+                          description: "URL of the first user's avatar",
+                          required: true,
+                          type: 'string'
+                        },
+                        {
+                          name: 'user2',
+                          in: 'query',
+                          description: "URL of the second user's avatar",
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/ShipResponse' }
+                          }
+                      }
+                  }
+              },
+            '/joke':
+              {
+                get:
+                  {
+                    summary: 'Get random jokes',
+                    description: 'Endpoint to get random jokes',
+                    parameters: [],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/JokeResponse' }
+                          }
+                      }
+                  }
+              },
+            '/biden':
+              {
+                get:
+                  {
+                    summary: 'Make Biden Tweet Anything',
+                    description: 'Endpoint to make Biden tweet anything',
+                    parameters:
+                      [
+                        {
+                          name: 'text',
+                          in: 'query',
+                          description: "Content for Biden's tweet",
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/BidenResponse' }
+                          }
+                      }
+                  }
+              },
+            '/pikachu':
+              {
+                get:
+                  {
+                    summary: 'Surprised pikachu!',
+                    description: 'Endpoint to create a surprised pikachu meme',
+                    parameters:
+                      [
+                        {
+                          name: 'text',
+                          in: 'query',
+                          description: 'Text for the meme',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/PikachuResponse' }
+                          }
+                      }
+                  }
+              },
+            '/mock':
+              {
+                get:
+                  {
+                    summary: 'Manipulate text in a sarcastic tone',
+                    description: 'Endpoint to manipulate text in a sarcastic tone',
+                    parameters:
+                      [
+                        {
+                          name: 'text',
+                          in: 'query',
+                          description: 'Text to manipulate',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/MockResponse' }
+                          }
+                      }
+                  }
+              },
+            '/wyr':
+              {
+                get:
+                  {
+                    summary: 'Get Would You Rather Questions',
+                    description: 'Endpoint to get Would You Rather questions',
+                    parameters: [],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/WyrResponse' }
+                          }
+                      }
+                  }
+              },
+            '/meme':
+              {
+                get:
+                  {
+                    summary: 'Spam this endpoint and get tons of memes',
+                    description: 'Endpoint to get tons of memes',
+                    parameters: [],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/MemeResponse' }
+                          }
+                      }
+                  }
+              },
+            '/colorify':
+              {
+                get:
+                  {
+                    summary: 'Overlay a variety of colors on your picture',
+                    description: 'Endpoint to overlay a variety of colors on your picture',
+                    parameters:
+                      [
+                        {
+                          name: 'image',
+                          in: 'query',
+                          description: 'URL of the image',
+                          required: true,
+                          type: 'string'
+                        },
+                        {
+                          name: 'color',
+                          in: 'query',
+                          description: 'Hex code of the color',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/ColorifyResponse' }
+                          }
+                      }
+                  }
+              },
+            '/drip':
+              {
+                get:
+                  {
+                    summary: "Pretend you're a rich person by wearing a fake expensive jacket",
+                    description: "Endpoint to pretend you're a rich person by wearing a fake expensive jacket",
+                    parameters:
+                      [
+                        {
+                          name: 'image',
+                          in: 'query',
+                          description: 'URL of the image',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/DripResponse' }
+                          }
+                      }
+                  }
+              },
+            '/clown':
+              {
+                get:
+                  {
+                    summary: 'This person is a clown',
+                    description: 'Endpoint to label a person as a clown',
+                    parameters:
+                      [
+                        {
+                          name: 'image',
+                          in: 'query',
+                          description: 'URL of the image',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/ClownResponse' }
+                          }
+                      }
+                  }
+              },
+            '/translate':
+              {
+                get:
+                  {
+                    summary: 'Translate given text to a specified language',
+                    description: 'Endpoint to translate given text to a specified language',
+                    parameters:
+                      [
+                        {
+                          name: 'to',
+                          in: 'query',
+                          description: 'Target language',
+                          required: true,
+                          type: 'string'
+                        },
+                        {
+                          name: 'text',
+                          in: 'query',
+                          description: 'Text to translate',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/TranslateResponse' }
+                          }
+                      }
+                  }
+              },
+            '/encode':
+              {
+                get:
+                  {
+                    summary: 'Encode text into binary numbers',
+                    description: 'Endpoint to encode text into binary numbers',
+                    parameters:
+                      [
+                        {
+                          name: 'text',
+                          in: 'query',
+                          description: 'Text to encode',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/EncodeResponse' }
+                          }
+                      }
+                  }
+              },
+            '/decode':
+              {
+                get:
+                  {
+                    summary: 'Decode binary numbers into text',
+                    description: 'Endpoint to decode binary numbers into text',
+                    parameters:
+                      [
+                        {
+                          name: 'binary',
+                          in: 'query',
+                          description: 'Binary numbers to decode',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/DecodeResponse' }
+                          }
+                      }
+                  }
+              },
+            '/uncover':
+              {
+                get:
+                  {
+                    summary: 'Ooo! This person was hiding behind the wall all the time?!',
+                    description: 'Endpoint to uncover a person hiding behind a wall',
+                    parameters:
+                      [
+                        {
+                          name: 'image',
+                          in: 'query',
+                          description: 'URL of the image',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/UncoverResponse' }
+                          }
+                      }
+                  }
+              },
+            '/ad':
+              {
+                get:
+                  {
+                    summary: 'Make yourself an ad',
+                    description: 'Endpoint to make yourself an ad',
+                    parameters:
+                      [
+                        {
+                          name: 'image',
+                          in: 'query',
+                          description: 'URL of the image',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/AdResponse' }
+                          }
+                      }
+                  }
+              },
+            '/blur':
+              {
+                get:
+                  {
+                    summary: 'Blur an image',
+                    description: 'Endpoint to blur an image',
+                    parameters:
+                      [
+                        {
+                          name: 'image',
+                          in: 'query',
+                          description: 'URL of the image',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/BlurResponse' }
+                          }
+                      }
+                  }
+              },
+            '/invert':
+              {
+                get:
+                  {
+                    summary: 'Invert the colors of an image',
+                    description: 'Endpoint to invert the colors of an image',
+                    parameters:
+                      [
+                        {
+                          name: 'image',
+                          in: 'query',
+                          description: 'URL of the image',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/InvertResponse' }
+                          }
+                      }
+                  }
+              },
+            '/greyscale':
+              {
+                get:
+                  {
+                    summary: 'Make an image more grey',
+                    description: 'Endpoint to make an image more grey',
+                    parameters:
+                      [
+                        {
+                          name: 'image',
+                          in: 'query',
+                          description: 'URL of the image',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/GreyscaleResponse' }
+                          }
+                      }
+                  }
+              },
+            '/8ball':
+              {
+                get:
+                  {
+                    summary: 'Ask the 8ball some questions',
+                    description: 'Endpoint to ask the 8ball some questions',
+                    parameters: [],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/EightBallResponse' }
+                          }
+                      }
+                  }
+              },
+            '/itunes':
+              {
+                get:
+                  {
+                    summary: 'Search on iTunes for any song',
+                    description: 'Endpoint to search on iTunes for any song',
+                    parameters:
+                      [
+                        {
+                          name: 'q',
+                          in: 'query',
+                          description: 'Song name or query',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/iTunesResponse' }
+                          }
+                      }
+                  }
+              },
+            '/reverse':
+              {
+                get:
+                  {
+                    summary: 'Reverse the text you provide',
+                    description: 'Endpoint to reverse the text you provide',
+                    parameters:
+                      [
+                        {
+                          name: 'text',
+                          in: 'query',
+                          description: 'Text to reverse',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/ReverseResponse' }
+                          }
+                      }
+                  }
+              },
+            '/jokeoverhead':
+              {
+                get:
+                  {
+                    summary: "That guy doesn't get jokes at all lol",
+                    description: 'Endpoint to create a meme about someone not getting jokes',
+                    parameters:
+                      [
+                        {
+                          name: 'image',
+                          in: 'query',
+                          description: 'URL of the image',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema:
+                              { $ref: '#/definitions/JokeOverheadResponse' }
+                          }
+                      }
+                  }
+              },
+            '/doublestruck':
+              {
+                get:
+                  {
+                    summary: 'Convert your text into the doublestruck font',
+                    description: 'Endpoint to convert your text into the doublestruck font',
+                    parameters:
+                      [
+                        {
+                          name: 'text',
+                          in: 'query',
+                          description: 'Text to convert',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema:
+                              { $ref: '#/definitions/DoublestruckResponse' }
+                          }
+                      }
+                  }
+              },
+            '/mnm':
+              {
+                get:
+                  {
+                    summary: 'Make your picture into a shape of m&ms',
+                    description: 'Endpoint to make your picture into a shape of m&ms',
+                    parameters:
+                      [
+                        {
+                          name: 'image',
+                          in: 'query',
+                          description: 'URL of the image',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            schema: { $ref: '#/definitions/MNMResponse' }
+                          }
+                      }
+                  }
+              },
+            '/pet':
+              {
+                get:
+                  {
+                    summary: 'Generates a pet-pet gif of any image provided',
+                    description: 'Endpoint to generate a pet-pet gif of any image provided',
+                    parameters:
+                      [
+                        {
+                          name: 'image',
+                          in: 'query',
+                          description: 'URL of the image',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200: { description: 'OK', content: { 'image/gif': {} } }
+                      }
+                  }
+              },
+            '/texttomorse':
+              {
+                get:
+                  {
+                    summary: 'Converts provided text to morse code',
+                    description: 'Endpoint to convert provided text to morse code',
+                    parameters:
+                      [
+                        {
+                          name: 'text',
+                          in: 'query',
+                          description: 'Text to convert',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200:
+                          {
+                            description: 'OK',
+                            type: 'object',
+                            properties:
+                              {
+                                original:
+                                  {
+                                    type: 'string',
+                                    description: 'Original text'
+                                  },
+                                morse:
+                                  {
+                                    type: 'string',
+                                    description: 'Equivalent morse code'
+                                  }
+                              }
+                          }
+                      }
+                  }
+              },
+            '/facts':
+              {
+                get:
+                  {
+                    summary: 'This man is speaking facts',
+                    description: 'Endpoint to create a meme about a person speaking facts',
+                    parameters:
+                      [
+                        {
+                          name: 'text',
+                          in: 'query',
+                          description: 'Text for the meme',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200: { description: 'OK', content: { 'image/png': {} } }
+                      }
+                  }
+              },
+            '/alert':
+              {
+                get:
+                  {
+                    summary: 'Make a fake iPhone alert picture',
+                    description: 'Endpoint to create a fake iPhone alert picture',
+                    parameters:
+                      [
+                        {
+                          name: 'text',
+                          in: 'query',
+                          description: 'Text for the alert',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200: { description: 'OK', content: { 'image/png': {} } }
+                      }
+                  }
+              },
+            '/caution':
+              {
+                get:
+                  {
+                    summary: 'A caution banner that looks real',
+                    description: 'Endpoint to create a caution banner that looks real',
+                    parameters:
+                      [
+                        {
+                          name: 'text',
+                          in: 'query',
+                          description: 'Text for the banner',
+                          required: true,
+                          type: 'string'
+                        }
+                      ],
+                    responses:
+                      {
+                        200: { description: 'OK', content: { 'image/png': {} } }
+                      }
+                  }
+              }
+          },
+        definitions:
+          {
+            WelcomeCardResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    link: { type: 'string', description: 'Endpoint URL' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' }
+                  }
+              },
+            ColorResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    link: { type: 'string', description: 'Endpoint URL' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' }
+                  }
+              },
+            LyricsResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    link: { type: 'string', description: 'Endpoint URL' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' }
+                  }
+              },
+            PeriodicTableResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    link: { type: 'string', description: 'Endpoint URL' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' }
+                  }
+              },
+            PeriodicTableRandomResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    link: { type: 'string', description: 'Endpoint URL' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' }
+                  }
+              },
+            HueRotateResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    link: { type: 'string', description: 'Endpoint URL' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' }
+                  }
+              },
+            NokiaResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    link: { type: 'string', description: 'Endpoint URL' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' }
+                  }
+              },
+            PickupLinesResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    link: { type: 'string', description: 'Endpoint URL' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' }
+                  }
+              },
+            IMDBResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    link: { type: 'string', description: 'Endpoint URL' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' }
+                  }
+              },
+            JailResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    link: { type: 'string', description: 'Endpoint URL' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' }
+                  }
+              },
+            UnforgivableResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    link: { type: 'string', description: 'Endpoint URL' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' }
+                  }
+              },
+            ScreenshotResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    link:
+                      {
+                        type: 'string',
+                        format: 'uri',
+                        description: 'Endpoint URL'
+                      },
+                    description:
+                      { type: 'string', description: 'Endpoint description' }
+                  }
+              },
+            RandomColorResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    link:
+                      {
+                        type: 'string',
+                        format: 'uri',
+                        description: 'Endpoint URL'
+                      },
+                    description:
+                      { type: 'string', description: 'Endpoint description' }
+                  }
+              },
+            SteamResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    link:
+                      {
+                        type: 'string',
+                        format: 'uri',
+                        description: 'Endpoint URL'
+                      },
+                    description:
+                      { type: 'string', description: 'Endpoint description' }
+                  }
+              },
+            SadCatResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    link:
+                      {
+                        type: 'string',
+                        format: 'uri',
+                        description: 'Endpoint URL'
+                      },
+                    description:
+                      { type: 'string', description: 'Endpoint description' }
+                  }
+              },
+            OogwayResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    link:
+                      {
+                        type: 'string',
+                        format: 'uri',
+                        description: 'Endpoint URL'
+                      },
+                    description:
+                      { type: 'string', description: 'Endpoint description' }
+                  }
+              },
+            CommunismResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    link:
+                      {
+                        type: 'string',
+                        format: 'uri',
+                        description: 'Endpoint URL'
+                      },
+                    description:
+                      { type: 'string', description: 'Endpoint description' }
+                  }
+              },
+            CarResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    link:
+                      {
+                        type: 'array',
+                        items: { type: 'string', format: 'uri' },
+                        description: 'Endpoint URLs'
+                      },
+                    description:
+                      { type: 'string', description: 'Endpoint description' }
+                  }
+              },
+            ChatbotResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' },
+                    sampleRequest:
+                      {
+                        type: 'string',
+                        format: 'uri',
+                        description: 'Sample request URL'
+                      }
+                  }
+              },
+            PoohResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' },
+                    links:
+                      {
+                        type: 'array',
+                        items: { type: 'string', format: 'uri' },
+                        description: 'Endpoint URLs'
+                      }
+                  }
+              },
+            ShowerThoughtsResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' },
+                    links:
+                      {
+                        type: 'array',
+                        items: { type: 'string', format: 'uri' },
+                        description: 'Endpoint URLs'
+                      }
+                  }
+              },
+            QuoteResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' },
+                    links:
+                      {
+                        type: 'array',
+                        items: { type: 'string', format: 'uri' },
+                        description: 'Endpoint URLs'
+                      }
+                  }
+              },
+            WantedResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    link:
+                      {
+                        type: 'string',
+                        format: 'uri',
+                        description: 'Endpoint URL'
+                      },
+                    description:
+                      { type: 'string', description: 'Endpoint description' }
+                  }
+              },
+            SubredditResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' },
+                    subreddit:
+                      { type: 'string', description: 'Name of the subreddit' },
+                    title:
+                      { type: 'string', description: 'Title of the subreddit' },
+                    url:
+                      {
+                        type: 'string',
+                        format: 'uri',
+                        description: 'URL of the subreddit'
+                      },
+                    description_text:
+                      {
+                        type: 'string',
+                        description: 'Description of the subreddit',
+                        nullable: true
+                      },
+                    online:
+                      {
+                        type: 'integer',
+                        format: 'int32',
+                        description: 'Number of online users'
+                      },
+                    subscribers:
+                      {
+                        type: 'integer',
+                        format: 'int32',
+                        description: 'Number of subscribers'
+                      },
+                    nsfw:
+                      {
+                        type: 'boolean',
+                        description: 'Whether the subreddit is NSFW'
+                      },
+                    public_description:
+                      {
+                        type: 'string',
+                        description: 'Public description of the subreddit',
+                        nullable: true
+                      },
+                    rules:
+                      {
+                        type: 'array',
+                        items: { type: 'string' },
+                        description: 'Array of rules in the subreddit',
+                        nullable: true
+                      }
+                  }
+              },
+            GithubResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' },
+                    avatar_url:
+                      {
+                        type: 'string',
+                        description: "URL of the user's avatar"
+                      },
+                    username:
+                      {
+                        type: 'string',
+                        description: 'Username of the GitHub user'
+                      },
+                    name:
+                      {
+                        type: 'string',
+                        description: 'Name of the GitHub user'
+                      },
+                    public_repos:
+                      {
+                        type: 'integer',
+                        format: 'int32',
+                        description: 'Number of public repositories'
+                      },
+                    followers:
+                      {
+                        type: 'integer',
+                        format: 'int32',
+                        description: 'Number of followers'
+                      },
+                    following:
+                      {
+                        type: 'integer',
+                        format: 'int32',
+                        description: 'Number of following'
+                      },
+                    bio:
+                      {
+                        type: 'string',
+                        description: 'Bio of the GitHub user',
+                        nullable: true
+                      }
+                  }
+              },
+            WeatherResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' },
+                    location: { type: 'string', description: 'Location name' },
+                    weather: { type: 'string', description: 'Current weather' },
+                    temperature:
+                      {
+                        type: 'number',
+                        format: 'double',
+                        description: 'Current temperature in Celsius'
+                      },
+                    feels_like:
+                      {
+                        type: 'number',
+                        format: 'double',
+                        description: 'Feels like temperature in Celsius'
+                      },
+                    humidity:
+                      {
+                        type: 'integer',
+                        format: 'int32',
+                        description: 'Humidity percentage'
+                      },
+                    wind_speed:
+                      {
+                        type: 'number',
+                        format: 'double',
+                        description: 'Wind speed in km/h'
+                      },
+                    wind_direction:
+                      { type: 'string', description: 'Wind direction' },
+                    forecast:
+                      {
+                        type: 'array',
+                        items: { $ref: '#/definitions/WeatherForecast' },
+                        description: 'Array of weather forecasts'
+                      }
+                  }
+              },
+            WeatherForecast:
+              {
+                type: 'object',
+                properties:
+                  {
+                    date:
+                      {
+                        type: 'string',
+                        format: 'date-time',
+                        description: 'Date of the forecast'
+                      },
+                    weather:
+                      { type: 'string', description: 'Weather condition' },
+                    temperature_min:
+                      {
+                        type: 'number',
+                        format: 'double',
+                        description: 'Minimum temperature in Celsius'
+                      },
+                    temperature_max:
+                      {
+                        type: 'number',
+                        format: 'double',
+                        description: 'Maximum temperature in Celsius'
+                      },
+                    wind_speed:
+                      {
+                        type: 'number',
+                        format: 'double',
+                        description: 'Wind speed in km/h'
+                      },
+                    wind_direction:
+                      { type: 'string', description: 'Wind direction' }
+                  }
+              },
+            WhoWouldWinResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' },
+                    links:
+                      {
+                        type: 'array',
+                        items: { type: 'string', format: 'uri' },
+                        description: 'Endpoint URLs'
+                      }
+                  }
+              },
+            GunResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' },
+                    link:
+                      {
+                        type: 'string',
+                        format: 'uri',
+                        description: 'Endpoint URL'
+                      }
+                  }
+              },
+            LulCatResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' },
+                    link:
+                      {
+                        type: 'string',
+                        format: 'uri',
+                        description: 'Endpoint URL'
+                      }
+                  }
+              },
+            OpinionResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' },
+                    link:
+                      {
+                        type: 'string',
+                        format: 'uri',
+                        description: 'Endpoint URL'
+                      }
+                  }
+              },
+            DrakeResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' },
+                    link:
+                      {
+                        type: 'string',
+                        format: 'uri',
+                        description: 'Endpoint URL'
+                      }
+                  }
+              },
+            NPMResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' },
+                    name:
+                      {
+                        type: 'string',
+                        description: 'Name of the NPM package'
+                      },
+                    version:
+                      {
+                        type: 'string',
+                        description: 'Version of the NPM package'
+                      },
+                    description_text:
+                      {
+                        type: 'string',
+                        description: 'Description of the NPM package',
+                        nullable: true
+                      },
+                    author:
+                      {
+                        type: 'string',
+                        description: 'Author of the NPM package',
+                        nullable: true
+                      },
+                    links:
+                      {
+                        type: 'array',
+                        items:
+                          {
+                            type: 'object',
+                            properties:
+                              {
+                                text: { type: 'string', description: 'Text' },
+                                url:
+                                  {
+                                    type: 'string',
+                                    format: 'uri',
+                                    description: 'URL'
+                                  }
+                              }
+                          },
+                        description: 'Array of links associated with the NPM package',
+                        nullable: true
+                      }
+                  }
+              },
+            FactResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' },
+                    fact: { type: 'string', description: 'Random fact' }
+                  }
+              },
+            ShipResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' },
+                    link:
+                      {
+                        type: 'string',
+                        format: 'uri',
+                        description: 'Endpoint URL'
+                      }
+                  }
+              },
+            JokeResponse:
+              {
+                type: 'object',
+                properties:
+                  {
+                    endpoint: { type: 'string', description: 'Endpoint name' },
+                    description:
+                      { type: 'string', description: 'Endpoint description' },
+                    joke: { type: 'string', description: 'Joke' }
+                  }
+              }
+          }
+      },
+    customOptions: {}
+  }
+]
