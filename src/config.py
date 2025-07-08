@@ -32,8 +32,6 @@ class Config:
             ("github_token", "GITHUB_TOKEN", None),
             ("api_ninjas_key", "API_NINJAS_KEY", None),
             ("rapidapi_key", "RAPIDAPI_KEY", None),
-            ("reddit_id", "REDDIT_ID", None),
-            ("reddit_secret", "REDDIT_SECRET", None),
             # ("brainshop_id", "BRAINSHOP_ID", "None"),
             # ("brainshop_apikey", "BRAINSHOP_APIKEY", None),
             ("translate_engine", "TRANSLATE_ENGINE", None),

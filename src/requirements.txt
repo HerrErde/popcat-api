@@ -1,5 +1,4 @@
 redis==5.2.1
-asyncpraw==7.8.1
 beautifulsoup4==4.13.3
 fastapi==0.115.8
 itunespy==1.6.1

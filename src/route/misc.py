@@ -570,12 +570,16 @@ async def car_endpoint(request: Request):
 
 
 class SubRedditResponse(BaseModel):
+    name: str
     title: str
-    subscribers: int
-    active_users: int
-    created: datetime
+    active_users: str
+    members: str
     description: str
-    isover18: bool
+    icon: str
+    banner: str
+    allow_videos: bool
+    allow_images: bool
+    over_18: bool
     url: str
 
 
