@@ -3,6 +3,7 @@ from fastapi.responses import JSONResponse
 from pydantic import BaseModel
 
 from modules.text import *
+from helper import deco
 
 text_router = APIRouter()
 
@@ -244,10 +245,11 @@ class ChatBotResponse(BaseModel):
     name="A free custom chatbot API",
     response_model=ChatBotResponse,
 )
+@deco.EndpointOOF
 async def chatbot_endpoint(
-    request: Request, msg: str, owner: str = None, botname: str = None
+    request: Request, msg: str = None, owner: str = None, botname: str = None
 ):
-    if not text:
+    if not msg:
         raise HTTPException(status_code=400, detail="Please provide a message!")
 
     try:
@@ -255,5 +257,5 @@ async def chatbot_endpoint(
         return {"response": response}
     except Exception as e:
         raise HTTPException(
-            status_code=500, detail=f"Error generating mock text: {str(e)}"
+            status_code=500, detail=f"Error generating ai text: {str(e)}"
         )
