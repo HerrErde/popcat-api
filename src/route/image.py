@@ -523,7 +523,8 @@ def pet_endpoint(request: Request, image: str = Query(...)):
         url = unquote(image)
         resp = requests.get(url)
         resp.raise_for_status()
-        gif_bytes = pet.create(resp.content)  # now works if create() supports raw bytes
+        # now works if create() supports raw bytes
+        gif_bytes = pet.create(resp.content)
         if not gif_bytes:
             return Response(content="Failed to generate pet image", status_code=500)
         return Response(content=gif_bytes, media_type="image/gif")

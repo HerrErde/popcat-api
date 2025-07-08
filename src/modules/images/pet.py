@@ -1,11 +1,8 @@
-import os
-from collections import defaultdict
 from io import BytesIO
 from itertools import chain
 from random import randrange
 from typing import List, Tuple, Union
 
-import requests
 from PIL import Image
 
 FRAMES, RES, DELAY = 10, (128, 128), 20

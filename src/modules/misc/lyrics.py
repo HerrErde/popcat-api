@@ -3,7 +3,6 @@ import json
 import re
 
 import requests
-from bs4 import BeautifulSoup
 
 
 def get_result(search_term):
@@ -28,7 +27,7 @@ def get_result(search_term):
                 id = first_result.get("id")
                 image = first_result.get("song_art_image_thumbnail_url")
                 artist = first_result.get("artist_names")
-                lyrics_url = first_result.get("url")
+                first_result.get("url")
 
                 lyrics_text = lyrics(id)
 

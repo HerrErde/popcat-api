@@ -1,9 +1,8 @@
 from fastapi import APIRouter, HTTPException, Request
-from fastapi.responses import JSONResponse
 from pydantic import BaseModel
 
-from modules.text import *
 from helper import deco
+from modules.text import *
 
 text_router = APIRouter()
 
