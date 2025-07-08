@@ -267,15 +267,16 @@ class LyricsResponse(BaseModel):
     "/lyrics", name="Get lyrics and info on a song", response_model=LyricsResponse
 )
 async def lyrics_endpoint(request: Request, song: str):
-
     if not song:
         raise HTTPException(
             status_code=400,
-            detail="Please provide 'song' query in request URL",
+            detail="Song not found!",
         )
 
     try:
         response = lyrics.search(search_term=song)
+        if not response:
+            raise HTTPException(status_code=404, detail="Lyrics not found")
 
         return response
     except Exception as e:
