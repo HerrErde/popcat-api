@@ -26,16 +26,3 @@ async def index_endpoint(request: Request):
         )
     else:
         return {"message": "Nothing here"}
-
-
-@router.get("/endpoints")
-async def endpoints_endpoint():
-    routes = []
-    for route in router.routes:
-        route_info = {
-            "methods": route.methods,
-            "path": route.path,
-            "name": route.name,
-        }
-        routes.append(route_info)
-    return {"endpoints": routes}

@@ -3,7 +3,7 @@ from io import BytesIO
 from typing import Dict, List
 
 from fastapi import APIRouter, HTTPException, Request
-from fastapi.responses import JSONResponse, StreamingResponse
+from fastapi.responses import StreamingResponse
 from pydantic import BaseModel, HttpUrl, RootModel, ValidationError
 
 from config import config
@@ -139,7 +139,7 @@ class PeriodicTableResponse(BaseModel):
 )
 async def periodic_endpoint(request: Request, element: str = None):
     if not element:
-        return JSONResponse(status_code=400, detail="Please provide an element query.")
+        return HTTPException(status_code=400, detail="Please provide an element query.")
 
     try:
         domain = host_address(request)
@@ -155,7 +155,7 @@ async def periodic_endpoint(request: Request, element: str = None):
 @misc_router.get("/periodic-table/image/{element}", response_model=ImageResponse)
 async def periodic_image_endpoint(request: Request, element: str):
     if not element:
-        return JSONResponse(status_code=400, detail="Please provide an element query.")
+        return HTTPException(status_code=400, detail="Please provide an element query.")
 
     try:
         image_bytes = periodic.create(element=element)
@@ -214,7 +214,7 @@ class NpmResponse(BaseModel):
 @misc_router.get("/npm", name="Get info on an NPM package", response_model=NpmResponse)
 async def npm_endpoint(request: Request, q: str):
     if not q:
-        return JSONResponse(status_code=400, detail="No query was provided!")
+        return HTTPException(status_code=400, detail="No query was provided!")
 
     try:
         response = npm.search(query=q)
@@ -244,7 +244,7 @@ class ItunesResponse(BaseModel):
 )
 async def itunes_endpoint(request: Request, q: str):
     if not q:
-        return JSONResponse(status_code=400, detail="No query was provided!")
+        return HTTPException(status_code=400, detail="No query was provided!")
 
     try:
         response = itunes.search(query=q)

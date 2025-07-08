@@ -102,7 +102,7 @@ async def decode_endpoint(
     binary: str = None,
 ):
     if not text:
-        raise JSONResponse(status_code=400, detail="No binary numbers provided!")
+        raise HTTPException(status_code=400, detail="No binary numbers provided!")
 
     try:
         response = binary.decode(binary)
