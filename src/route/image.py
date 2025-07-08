@@ -1,7 +1,9 @@
 from io import BytesIO
+from urllib.parse import unquote
 
-from fastapi import APIRouter, HTTPException, Request
-from fastapi.responses import JSONResponse, StreamingResponse
+import requests
+from fastapi import APIRouter, HTTPException, Query, Request
+from fastapi.responses import JSONResponse, Response, StreamingResponse
 from pydantic import BaseModel
 
 from modules.images import *
@@ -516,19 +518,17 @@ async def huerotate_endpoint(request: Request, img: str, deg: str):
     name="Generates a pet-pet gif of any image provided",
     response_model=ImageResponse,
 )
-async def pet_endpoint(request: Request, image: str):
-
-    if not image:
-        raise HTTPException(status_code=400, detail="Please provide an image query.")
-
+def pet_endpoint(request: Request, image: str = Query(...)):
     try:
-        image_bytes = pet.create(image)
-
-        return StreamingResponse(BytesIO(image_bytes), media_type="image/gif")
+        url = unquote(image)
+        resp = requests.get(url)
+        resp.raise_for_status()
+        gif_bytes = pet.create(resp.content)  # now works if create() supports raw bytes
+        if not gif_bytes:
+            return Response(content="Failed to generate pet image", status_code=500)
+        return Response(content=gif_bytes, media_type="image/gif")
     except Exception as e:
-        raise HTTPException(
-            status_code=500, detail=f"Error generating pet image: {str(e)}"
-        )
+        return Response(content=f"Error: {e}", status_code=500)
 
 
 @img_router.get(

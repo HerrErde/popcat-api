@@ -2,7 +2,6 @@ aiohttp==3.11.14
 beautifulsoup4==4.13.4
 fastapi==0.116.0
 itunespy==1.6.1
-pet_pet_gif==1.0.2
 numpy==2.3.1
 Pillow==11.3.0
 playwright==1.50.0

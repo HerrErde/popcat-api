@@ -98,6 +98,7 @@
 
 - [x] Pet \
        Generates a pet-pet gif of any image provided!! \
+       https://github.com/camprevail/pet-pet-gif \
        https://github.com/aDu/pet-pet-gif \
        https://github.com/0w0zies/Petgifgen
 
